@@ -1,13 +1,14 @@
 ---
-title: "How Can Grading in Creative Arts Higher Education Be More Inclusive to Facilitate Learning?"
-type: source-note
-author: "Alex Bell, Hrefna Bragadottir, Liam Lacey, Preeti Sood & Rob Payne"
-date: 2024
-source-type: article
-tags: [grading, ungrading, creative-education, inclusive-assessment, assessment, growth-mindset]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+publish: true
+title: How Can Grading in Creative Arts Higher Education Be More Inclusive to Facilitate Learning?
+modified: 2026-08-08
+tags:
+  - grading
+  - ungrading
+  - creative-education
+  - inclusive-assessment
+  - assessment
+  - growth-mindset
 ---
 
 # How Can Grading in Creative Arts Higher Education Be More Inclusive to Facilitate Learning?
@@ -18,9 +19,11 @@ dg-publish: true
 **Raw file:** [How can grading in creative arts higher education be more inclusive to facilitate learning.pdf](../../raw/articles/How%20can%20grading%20in%20creative%20arts%20higher%20education%20be%20more%20inclusive%20to%20facilitate%20learning.pdf)
 
 ## Summary
+
 This co-authored journal article critiques traditional grading systems in creative education that emphasise uniformity over inclusivity, often stifling originality and creativity. Through mixed-method research, including surveys and interviews with industry experts, it explores alternative and inclusive assessment methods such as ungrading. Findings highlight the importance of inclusive, student-centred approaches that prioritise facilitation, feedback, self-reflection, and autonomy to enhance intrinsic motivation and creativity. Recommendations include a radical shake-up to assessment practices in collaboration with industry and policy makers, professional development for educators, and integrating assessment literacy and feed-forward feedback into curriculum.
 
 ## Key Claims
+
 - Creative education faces challenges with traditional grading systems that emphasise uniformity over inclusivity, often stifling originality and creativity (p. 1).
 - Assessing creative outputs requires an inherent subjectivity and an ipsative approach that is entangled with the students' learning journey (Orr, 2007) (p. 3).
 - Grading increases stress and decreases academic self-esteem among school students (Högberg et al, 2021) (p. 4).
@@ -44,6 +47,7 @@ This co-authored journal article critiques traditional grading systems in creati
 **Related source notes:** [Moya 2020](../source-notes/moya-2020-ungrading-review.md) · [Bloxham et al 2011](../source-notes/bloxham-2011-assessment-criteria-grading.md)
 
 ## Direct Quotes
+
 > "Inclusive assessment, defined as 'the design and use of fair and effective assessment methods and practices that enable all students to demonstrate to their full potential' (Hockings, 2010)." (p. 5-6)
 
 > "Creating the grading conditions for autonomy, choice, reflection, and critical thinking are key to developing an intrinsic behaviour and growth mindset in students." (p. 6)
@@ -51,8 +55,10 @@ This co-authored journal article critiques traditional grading systems in creati
 > "'Assidere' is the Latin root for the word assessment, and it actually means 'to sit beside'." (Participant 5, p. 22)
 
 ## Open Questions
+
 - How can inclusive assessment be implemented within the constraints of quality assurance and institutional structures?
 - How can grading be made more inclusive in creative arts education?
 
 ## Tags
+
 `grading` `ungrading` `creative-education` `inclusive-assessment` `assessment` `growth-mindset`

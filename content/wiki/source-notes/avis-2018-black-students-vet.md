@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "Black Students in VET: Learner Experiences in an English Metropolitan and Provincial Setting"
-type: source-note
-author: "James Avis, Kevin Orr & Paul Warmington"
-date: 2018
-source-type: article
-tags: [vocational-education, race, social-justice, further-education, social-capital]
-created: 2026-08-08
-updated: 2026-08-13
-dg-publish: true
+modified: 2026-08-13
+tags:
+  - vocational-education
+  - race
+  - social-justice
+  - further-education
+  - social-capital
 ---
 
 # Black Students in VET: Learner Experiences in an English Metropolitan and Provincial Setting
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Avis et al 2018.pdf](../../raw/articles/Avis%20et%20al%202018.pdf)
 
 ## Summary
+
 This paper addresses the lived experience of black students in Vocational Education and Training (VET), sampling nine young people (male and female, 16-25) from a northern provincial and metropolitan English city. It addresses the under-researched area of the lived experience of African-Caribbean and mixed heritage youth in VET, pointing to the salience of analyses of social capital, metropolitan and provincial cities, and labour market conditions. It locates the discussion within its socio-economic context and the manner in which race is both historically and contemporaneously embedded in the division of labour.
 
 ## Key Claims
+
 - The marginalisation of race and VET is partly a consequence of researchers focusing on schools and higher education as a potential route to upward social mobility, and partly relates to the capitalist division of labour and the way this is entwined with racist processes (p. 44).
 - Research on the labour process in the US and the transition from Taylorism to Fordism illustrates the manner in which race is central to such processes rather than being an atavistic hangover from the past (p. 44).
 - Different racialised groups were deemed to have particular dispositions that aligned with particular types of labour (p. 44).
@@ -42,13 +44,16 @@ This paper addresses the lived experience of black students in Vocational Educat
 **Related source notes:** [Avis & Orr 2016](../source-notes/avis-orr-2016-he-in-fe.md)
 
 ## Direct Quotes
-> "There's a … black identity that my white teachers try to strap onto us… They expect us to fail … they expect us to struggle money wise… they expect us to fight each other … When we challenge or exceed their expectations, it's like they can't even recognise us [as black]." (Wallace, 2018, p. 474, quoted p. 45)
+
+> "There's a … black identity that my white teachers try to strap onto us… They expect us to fail … they expect us to struggle money wise… they expect us to fight each other … When we challenge or exceed their expectations, it's like they can't even recognise us \[as black]." (Wallace, 2018, p. 474, quoted p. 45)
 
 > "To be honest, no teachers actually took me and said look, this is what you should do, or this is what I think you should do, or anything like that. It was just, they were just happy that I finished GCSEs, that I was kind of out of their hair." (Nathan, quoted p. 47)
 
 ## Open Questions
+
 - How can VET provide access to training that reflects the specific interests and needs of black students?
 - How can the opportunity structures of provincial cities be improved to match those of metropolitan cities?
 
 ## Tags
+
 `vocational-education` `race` `social-justice` `further-education` `social-capital`

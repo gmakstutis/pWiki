@@ -1,13 +1,12 @@
 ---
-title: "Communities of Practice"
-type: source-note
-author: "Linda Au, Davina Reiner & Danita Urbanowski"
-date: 2009
-source-type: article
-tags: [communities-of-practice, professional-development, collaborative-learning, early-childhood-education]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+publish: true
+title: Communities of Practice
+modified: 2026-08-08
+tags:
+  - communities-of-practice
+  - professional-development
+  - collaborative-learning
+  - early-childhood-education
 ---
 
 # Communities of Practice
@@ -18,9 +17,11 @@ dg-publish: true
 **Raw file:** [Au 2009.pdf](../../raw/articles/Au%202009.pdf)
 
 ## Summary
+
 A student research project conducted at Mount Royal College in partnership with Calgary and Area Child and Family Services, examining what early learning professionals know about communities of practice and whether/how they implement them. The paper provides a literature review of communities of practice, collaborative learning communities, professional learning communities, and learning circles, and reports survey and symposium findings suggesting early learning professionals generally have a good understanding of communities of practice and use the process in their agencies.
 
 ## Key Claims
+
 - "Communities of practice are groups of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly" (Wenger) (p. 6).
 - Communities of practice have three essential characteristics: the domain (a common domain of interest, membership implies commitment), the community (members participate in activities and discussions, help each other, and share information), and the practice (members develop a shared collection of resources such as experiences, stories, tools, and ways of addressing recurring problems) (p. 6).
 - A community of practice is not simply having the same job as someone, unless the members interact and learn together (p. 9).
@@ -40,6 +41,7 @@ A student research project conducted at Mount Royal College in partnership with 
 **Related source notes:** None yet
 
 ## Direct Quotes
+
 > "Communities of practice are groups of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly" (Wenger, quoted p. 6)
 
 > "Good learning, like good work, is collaborative and social, not competitive and isolated. Sharing one's ideas and responding to others' improves thinking and deepens understanding" (Tu, 2004, p. 13, quoted p. 10)
@@ -47,8 +49,10 @@ A student research project conducted at Mount Royal College in partnership with 
 > "A community of practice is not simply having the same job as someone, unless the members interact and learn together" (Wenger, quoted p. 9)
 
 ## Open Questions
+
 - How can communities of practice avoid becoming cliques that resist critique?
 - How can participation in communities of practice be kept voluntary to preserve commitment?
 
 ## Tags
+
 `communities-of-practice` `professional-development` `collaborative-learning` `early-childhood-education`

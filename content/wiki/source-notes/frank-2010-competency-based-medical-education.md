@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "Competency-Based Medical Education: Theory to Practice"
-type: source-note
-author: "Jason R. Frank, Linda S. Snell, Olle ten Cate, et al."
-date: 2010
-source-type: article
-tags: [competency-based-education, medical-education, competence, outcomes, learner-centredness]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+modified: 2026-08-08
+tags:
+  - competency-based-education
+  - medical-education
+  - competence
+  - outcomes
+  - learner-centredness
 ---
 
 # Competency-Based Medical Education: Theory to Practice
@@ -15,12 +15,14 @@ dg-publish: true
 **Author:** Jason R. Frank, Linda S. Snell, Olle ten Cate, et al.
 **Year:** 2010
 **Source type:** article
-**Raw file:** [Frank_2018.pdf](../../raw/articles/Frank_2018.pdf)
+**Raw file:** [Frank\_2018.pdf](../../raw/articles/Frank_2018.pdf)
 
 ## Summary
+
 This consensus paper, produced by the International CBME Collaborators convened by the Royal College of Physicians and Surgeons of Canada, examines conceptual issues and current debates in competency-based medical education (CBME). The paper describes the evolution of CBME from the outcomes movement in the 20th century to a renewed approach that, focused on accountability and curricular outcomes and organized around competencies, promotes greater learner-centredness and de-emphasizes time-based curricular design. In this paradigm, competence and related terms are redefined to emphasize their multi-dimensional, dynamic, developmental, and contextual nature. The paper proposes consensus definitions of CBME and related terms and explores the promise and potential perils of competency-based medical curricula.
 
 ## Key Claims
+
 - Competency-based medical education (CBME) is an outcomes-based approach to the design, implementation, assessment, and evaluation of medical education programs, using an organizing framework of competencies (p. 641).
 - Competence is the array of abilities across multiple domains or aspects of physician performance in a certain context; it is multi-dimensional and dynamic, changing with time, experience, and setting (p. 641).
 - A competency is an observable ability of a health professional, integrating multiple components such as knowledge, skills, values, and attitudes (p. 641).
@@ -40,6 +42,7 @@ This consensus paper, produced by the International CBME Collaborators convened 
 **Related source notes:** [Andrade & Alden-Rivers 2019](../source-notes/andrade-alden-rivers-2019-flexible-learning-framework.md) · [Nusche 2008](../source-notes/nusche-2008-assessment-learning-outcomes.md)
 
 ## Direct Quotes
+
 > "Competency-based medical education is an outcomes-based approach to the design, implementation, assessment, and evaluation of medical education programs, using an organizing framework of competencies." (p. 641)
 
 > "Competence is multi-dimensional and dynamic. It changes with time, experience, and setting." (p. 641)
@@ -47,8 +50,10 @@ This consensus paper, produced by the International CBME Collaborators convened 
 > "CBME is organized around the question, 'What abilities are needed of graduates?'" (p. 642)
 
 ## Open Questions
+
 - How can the promise of CBME be realised while avoiding the perils of reductionism and the tyranny of utility?
 - How can competencies be reliably assessed and credentialed?
 
 ## Tags
+
 `competency-based-education` `medical-education` `competence` `outcomes` `learner-centredness`

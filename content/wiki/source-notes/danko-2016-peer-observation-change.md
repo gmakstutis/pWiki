@@ -1,13 +1,13 @@
 ---
-title: "Peer Observation in Higher Education as an Agent of Change in Teaching and Learning"
-type: source-note
-author: "Manica Danko, Damijana Keržič & Žiga Kotnik"
-date: 2016
-source-type: article
-tags: [peer-observation, higher-education, teaching, pedagogy, student-engagement]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+publish: true
+title: Peer Observation in Higher Education as an Agent of Change in Teaching and Learning
+modified: 2026-08-08
+tags:
+  - peer-observation
+  - higher-education
+  - teaching
+  - pedagogy
+  - student-engagement
 ---
 
 # Peer Observation in Higher Education as an Agent of Change in Teaching and Learning
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Danko et al.pdf](../../raw/articles/Danko%20et%20al.pdf)
 
 ## Summary
+
 This conference paper reports on a pilot project of peer observation of teaching (POT) at the Faculty of Administration, University of Ljubljana, in the 2014/15 academic year. The project investigated the perceptions of teachers and students about the pedagogical process, using a three-part observation model (pre-observation session, observation, and post-observation reflective session) based on the peer review model. The results suggest that the advantages of POT are multifold: it is not only the feedback on teaching from colleagues and students but also the process of planning strategies to address areas for improvements in teaching and learning. Students as partners in the process are empowered by the ability to recognize academic excellence in teaching and learning and thus become responsible for improvements in the pedagogical culture of an institution.
 
 ## Key Claims
+
 - Peer observation is an element of development towards the enhancement of quality of teaching and learning in higher education (p. 1).
 - In the process of pedagogical observation teachers empower self-reflection on their pedagogical practice, identify good practices observed and establish communication about teaching with their colleagues (p. 1).
 - The inclusion of students in the observation practice increases the awareness of student experience in teaching and learning practice (p. 1).
@@ -43,6 +45,7 @@ This conference paper reports on a pilot project of peer observation of teaching
 **Related source notes:** [An Introduction to Peer Observation of Teaching](../source-notes/introduction-peer-observation-teaching.md) · [Compton 2019](../source-notes/compton-2019-unorthodox-observation.md)
 
 ## Direct Quotes
+
 > "The activity of observation in POT process could be just as beneficial as receiving feedback." (p. 2)
 
 > "POT can become an important element of 'gentle' assessment, with the intention to improve teaching methods and to recognize various benefits for students." (p. 6)
@@ -50,8 +53,10 @@ This conference paper reports on a pilot project of peer observation of teaching
 > "Students as partners in the process are empowered by the ability to recognize the academic excellence in teaching and learning and thus become responsible for the improvements in the pedagogical culture of an institution." (p. 1)
 
 ## Open Questions
+
 - How can students be effectively included as partners in peer observation of teaching?
 - How can voluntary POT grow into a lasting 'critical' friendship and institutional standard?
 
 ## Tags
+
 `peer-observation` `higher-education` `teaching` `pedagogy` `student-engagement`

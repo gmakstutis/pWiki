@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "Marking and Moderation in the UK: False Assumptions and Wasted Resources"
-type: source-note
-author: "Sue Bloxham"
-date: 2009
-source-type: article
-tags: [marking, moderation, assessment, external-examining, degree-classification]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+modified: 2026-08-08
+tags:
+  - marking
+  - moderation
+  - assessment
+  - external-examining
+  - degree-classification
 ---
 
 # Marking and Moderation in the UK: False Assumptions and Wasted Resources
@@ -15,12 +15,14 @@ dg-publish: true
 **Author:** Sue Bloxham
 **Year:** 2009
 **Source type:** article
-**Raw file:** [Bloxham_2009.pdf](../../raw/articles/Bloxham_2009.pdf)
+**Raw file:** [Bloxham\_2009.pdf](../../raw/articles/Bloxham_2009.pdf)
 
 ## Summary
+
 This article challenges a number of assumptions underlying marking of student work in British universities. It argues that, in developing rigorous moderation procedures, we have created a huge burden for markers which adds little to accuracy and reliability but creates additional work for staff, constrains assessment choices, and slows down feedback to students. It explores whether there are other ways to provide confidence in marking and grading that might divert this energy into productive activities with useful outcomes for students and learning.
 
 ## Key Claims
+
 - Four assumptions are examined: (1) we can accurately and reliably give a mark to most students' work; (2) internal moderation ensures fair and appropriate standards; (3) external moderation ensures consistent standards across the UK sector; (4) students' final award reflects their achievement consistently (p. 209).
 - Higher education assessment is internally set and marked, which means marking is largely in the hands of the subjective judgement of tutors and assumes academics share common views regarding academic standards (p. 210).
 - Elton and Johnston (2002) describe marker reliability as low for essays and problem style examinations except where mere knowledge recall is required (p. 210).
@@ -48,6 +50,7 @@ This article challenges a number of assumptions underlying marking of student wo
 **Related source notes:** [Bloxham et al 2011](../source-notes/bloxham-2011-assessment-criteria-grading.md) · [Baume 2018](../source-notes/baume-2018-learning-gain.md)
 
 ## Direct Quotes
+
 > "The more complex the learning, the more we draw on 'connoisseurship' rather than measurement to make our judgements." (p. 210)
 
 > "There is 'an underlying softness in the data that typically goes unrecognised'." (Sadler 2005, p. 182, quoted p. 211)
@@ -55,8 +58,10 @@ This article challenges a number of assumptions underlying marking of student wo
 > "Although reliable procedures give the appearance of 'good order', they do not necessarily deliver good quality assessment practice." (p. 214)
 
 ## Open Questions
+
 - How can confidence in marking be maintained without focusing on unattainable reliability and accuracy?
 - How can assessment be designed to support learning rather than merely serve certification and quality assurance?
 
 ## Tags
+
 `marking` `moderation` `assessment` `external-examining` `degree-classification`

@@ -1,13 +1,13 @@
 ---
-title: "Is Learning Styles-Based Instruction Effective? A Comprehensive Analysis of Recent Research on Learning Styles"
-type: source-note
-author: "Joshua Cuevas"
-date: 2015
-source-type: article
-tags: [learning-styles, matching-hypothesis, instruction, cognition, research-based-instruction]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+publish: true
+title: Is Learning Styles-Based Instruction Effective? A Comprehensive Analysis of Recent Research on Learning Styles
+modified: 2026-08-08
+tags:
+  - learning-styles
+  - matching-hypothesis
+  - instruction
+  - cognition
+  - research-based-instruction
 ---
 
 # Is Learning Styles-Based Instruction Effective? A Comprehensive Analysis of Recent Research on Learning Styles
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Cuevas 2015.pdf](../../raw/articles/Cuevas%202015.pdf)
 
 ## Summary
+
 This article examines the literature on learning styles since 2009, when Pashler et al. revealed a lack of empirical evidence supporting learning styles-based instruction and provided guidelines for the research design necessary to verify the learning styles hypothesis. Cuevas reviews correlational and experimental research recently published on learning styles, along with an examination of how the subject is portrayed in teacher education texts. Results revealed that the more methodologically sound studies have tended to refute the hypothesis, and that a substantial divide continues to exist, with learning styles instruction enjoying broad acceptance in practice but the majority of research evidence suggesting that it has no benefit to student learning.
 
 ## Key Claims
+
 - The phrase learning styles refers to the concept that different people prefer to process information in different ways and therefore learn more effectively when they receive instruction in a way that conforms to their preferences (Pashler et al., 2009) (p. 2).
 - The matching, or meshing, hypothesis implies that students' learning is enhanced when a mode of instruction is used that matches their learning preference (p. 4).
 - The criteria Pashler et al. (2009) identified for a study to provide adequate evidence for the learning styles hypothesis are: multiple groups or conditions, random assignment of participants, all subjects given the same achievement test, and findings showing a crossover interaction effect (p. 4).
@@ -42,6 +44,7 @@ This article examines the literature on learning styles since 2009, when Pashler
 **Related source notes:** [Bhat 2014](../source-notes/bhat-2014-learning-styles-problem-solving.md) · [Casakin & Miller 2008](../source-notes/casakin-miller-2008-learning-styles-metaphor.md)
 
 ## Direct Quotes
+
 > "The matching, or meshing, hypothesis implies that students' learning is enhanced when a mode of instruction is used that matches their learning preference." (p. 4)
 
 > "The learning styles hypothesis has been refuted by empirical research to the extent that it may be considered irresponsible for teacher education programs and public educators to apply the method in practice." (p. 23)
@@ -49,8 +52,10 @@ This article examines the literature on learning styles since 2009, when Pashler
 > "There is a total absence of evidence that the implementation of this framework has any benefit whatsoever to students' academic learning." (p. 21)
 
 ## Open Questions
+
 - Can the matching hypothesis be confirmed by rigorous experimental research showing a crossover interaction effect?
 - Why does learning styles instruction continue to enjoy broad acceptance in practice despite the lack of empirical support?
 
 ## Tags
+
 `learning-styles` `matching-hypothesis` `instruction` `cognition` `research-based-instruction`

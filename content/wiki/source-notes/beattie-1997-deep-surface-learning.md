@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "Deep and Surface Learning: A Simple or Simplistic Dichotomy?"
-type: source-note
-author: "Vivien Beattie, Bill Collins & Bill McInnes"
-date: 1997
-source-type: article
-tags: [deep-learning, surface-learning, learning-approaches, learning-styles, accounting-education]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+modified: 2026-08-08
+tags:
+  - deep-learning
+  - surface-learning
+  - learning-approaches
+  - learning-styles
+  - accounting-education
 ---
 
 # Deep and Surface Learning: A Simple or Simplistic Dichotomy?
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Beattie et al 1997.pdf](../../raw/articles/Beattie%20et%20al%201997.pdf)
 
 ## Summary
+
 This paper introduces the full complexity of the education literature on deep and surface learning into the accounting education literature. It traces the evolution of the concepts through the work of four research groups (Lancaster, Australian, Swedish, and Richmond), showing that the deep-surface dichotomy, often used as convenient shorthand, generally oversimplifies in two key respects: the distinction is relevant to several aspects of learning (intentions, styles, approaches, outcomes), and it comprises only one of several components influencing a student's overall learning orientation.
 
 ## Key Claims
+
 - Deep learning refers to learning with understanding, while surface learning refers to more temporary learning (p. 2).
 - The deep approach is characterized by students who seek to understand issues and interact critically with teaching materials, relate ideas to previous knowledge, and examine the logic of arguments; the surface approach is characterized by students who memorize parts of content, accept ideas without question, and are influenced by assessment requirements (p. 3).
 - The use of the deep-surface dichotomy generally oversimplifies in two key respects: the distinction is relevant to several aspects of learning (intentions, styles, approaches, outcomes), and it is unrealistic to assume a deep approach is universally desirable, since it may be necessary to adopt a surface approach given the nature of the knowledge to be acquired (p. 1).
@@ -44,6 +46,7 @@ This paper introduces the full complexity of the education literature on deep an
 **Related source notes:** [Biggs Constructive Alignment](../source-notes/biggs-constructive-alignment.md) · [Bhat 2014](../source-notes/bhat-2014-learning-styles-problem-solving.md)
 
 ## Direct Quotes
+
 > "Deep learning refers to learning with understanding, while surface learning refers to more temporary learning." (p. 2)
 
 > "The deep approach, which implies that a student learns for understanding, is characterized by students who (1) seek to understand the issues and interact critically with the contents of particular teaching materials, (2) relate ideas to previous knowledge and experience and (3) examine the logic of the arguments and relate the evidence presented to the conclusions." (p. 3)
@@ -51,8 +54,10 @@ This paper introduces the full complexity of the education literature on deep an
 > "A student's approach to learning is only partly a function of his or her general characteristics, since it can be modified by specific learning situations." (p. 10)
 
 ## Open Questions
+
 - Does the inherent approach to learning of accounting undergraduates differ from that of the general undergraduate population?
 - Which forms of assessment reward critical thinking and thus encourage a deep approach to learning?
 
 ## Tags
+
 `deep-learning` `surface-learning` `learning-approaches` `learning-styles` `accounting-education`

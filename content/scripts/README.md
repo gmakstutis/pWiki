@@ -1,10 +1,10 @@
 # `wiki` — the deterministic tooling layer
 
-> *The tool is the hands; the agent is the head.* — the [engram](https://github.com/jeromeetienne/engram) philosophy, adapted here.
+> _The tool is the hands; the agent is the head._ — the [engram](https://github.com/jeromeetienne/engram) philosophy, adapted here.
 
 The wiki's schema (`CLAUDE.md`) already **specifies** every mechanical check —
 broken links, orphans, index drift, missing frontmatter. But running those by
-having the *agent* hand-scan every page is slow, token-expensive, and easy to
+having the _agent_ hand-scan every page is slow, token-expensive, and easy to
 get wrong. This script moves the mechanical half out of the model into
 deterministic Python. The agent keeps the irreducibly semantic work (reading,
 synthesising, judging); the tool does the counting.
@@ -14,7 +14,7 @@ Idea and structure borrowed from two sibling projects in the same
 lineage: **[engram](https://github.com/jeromeetienne/engram)** (a validator-only
 CLI with relative-link resolution) and
 **[tome](https://github.com/chicken-noodle-chris/tome)** (a `conventions.toml`
-that splits *data-shaped* rules out of the prose schema).
+that splits _data-shaped_ rules out of the prose schema).
 
 ## Usage
 
@@ -27,8 +27,8 @@ python3 scripts/wiki.py lint --root /path/to/wiki # explicit root (else walks up
 ```
 
 Exit code is **nonzero iff there is an ERROR-tier finding**, so it can gate a
-commit or CI run: *"`wiki lint` must pass error-free as the last step of any
-wiki-touching task."* No third-party dependencies (stdlib only; ships its own
+commit or CI run: _"`wiki lint` must pass error-free as the last step of any
+wiki-touching task."_ No third-party dependencies (stdlib only; ships its own
 minimal TOML reader for Python 3.9, and prefers `tomllib`/`tomli` when present).
 **An empty wiki lints clean** — a freshly cloned template with no pages yet
 reports `0 pages` and exits 0.
@@ -43,7 +43,7 @@ reports `0 pages` and exits 0.
 | `frontmatter-type-field` | warn | a per-type field is missing (e.g. a source-note without `author`/`date`/`source-type`) |
 | `source-type` | warn | `source-type:` value not in the enum |
 | `related-broken` | warn | a `related:` stem resolves to no page |
-| `marker-relevance` / `marker-overview` | warn | *(optional)* an epistemic-marker header without its marker — only if enabled in `conventions.toml` |
+| `marker-relevance` / `marker-overview` | warn | _(optional)_ an epistemic-marker header without its marker — only if enabled in `conventions.toml` |
 | `orphan` | warn | a page no other wiki page links to (index/log/README don't count) |
 | `oversize` (hard cap) | warn | page longer than the hard cap — consider splitting |
 | `link-broken` (into `raw/`) | info | a provenance pointer to immutable source material (often gitignored / absent) |

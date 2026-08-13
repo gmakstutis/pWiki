@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "Mindset: The New Psychology of Success"
-type: source-note
-author: "Carol S. Dweck"
-date: 2006
-source-type: book
-tags: [mindset, fixed-mindset, growth-mindset, learning, intelligence]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+modified: 2026-08-08
+tags:
+  - mindset
+  - fixed-mindset
+  - growth-mindset
+  - learning
+  - intelligence
 ---
 
 # Mindset: The New Psychology of Success
@@ -15,12 +15,14 @@ dg-publish: true
 **Author:** Carol S. Dweck
 **Year:** 2006
 **Source type:** book
-**Raw file:** [Dweck_2006.pdf](../../raw/articles/Dweck_2006.pdf)
+**Raw file:** [Dweck\_2006.pdf](../../raw/articles/Dweck_2006.pdf)
 
 ## Summary
+
 This book presents Dweck's research on mindsets — the beliefs people hold about whether human qualities, such as intelligence and personality, are fixed traits or can be cultivated through effort. The fixed mindset, the belief that qualities are carved in stone, creates an urgency to prove oneself over and over and makes people into nonlearners who fear challenge and devalue effort. The growth mindset, the belief that basic qualities can be cultivated through effort, creates a passion for learning and stretching oneself, allowing people to thrive during challenging times. Dweck shows how these mindsets play out in school, sports, the workplace, and relationships, and how they can be changed.
 
 ## Key Claims
+
 - Believing that your qualities are carved in stone — the fixed mindset — creates an urgency to prove yourself over and over (p. 6).
 - The growth mindset is based on the belief that your basic qualities are things you can cultivate through your efforts (p. 7).
 - People with the growth mindset believe that a person's true potential is unknown (and unknowable); that it's impossible to foresee what can be accomplished with years of passion, toil, and training (p. 7).
@@ -43,6 +45,7 @@ This book presents Dweck's research on mindsets — the beliefs people hold abou
 **Related source notes:** [Beattie et al 1997](../source-notes/beattie-1997-deep-surface-learning.md)
 
 ## Direct Quotes
+
 > "The passion for stretching yourself and sticking to it, even (or especially) when it's not going well, is the hallmark of the growth mindset." (p. 7)
 
 > "This is how the fixed mindset makes people into nonlearners." (p. 11)
@@ -50,8 +53,10 @@ This book presents Dweck's research on mindsets — the beliefs people hold abou
 > "Mindsets are just beliefs. They're powerful beliefs, but they're just something in your mind, and you can change your mind." (p. 10)
 
 ## Open Questions
+
 - How can the growth mindset be cultivated in educational settings?
 - How do mindsets shape creative achievement and resilience?
 
 ## Tags
+
 `mindset` `fixed-mindset` `growth-mindset` `learning` `intelligence`

@@ -1,13 +1,12 @@
 ---
-title: "Towards a Measure of Learning Gain. A Journey. With Obstacles"
-type: source-note
-author: "David Baume"
-date: 2018
-source-type: article
-tags: [learning-gain, assessment, value-added, higher-education]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+publish: true
+title: Towards a Measure of Learning Gain. A Journey. With Obstacles
+modified: 2026-08-08
+tags:
+  - learning-gain
+  - assessment
+  - value-added
+  - higher-education
 ---
 
 # Towards a Measure of Learning Gain. A Journey. With Obstacles
@@ -18,9 +17,11 @@ dg-publish: true
 **Raw file:** [Baume 2018.pdf](../../raw/articles/Baume%202018.pdf)
 
 ## Summary
+
 An opinion piece that, from a stance of enthusiasm for learning gain, suggests difficulties with the concept and thereby explores some deficiencies in the current practice of higher education. Baume identifies five obstacles to measuring learning gain: the appeal of complexity, a reluctance to justify, the question of whose learning gain, the "rubber ruler" of assessment, and politics.
 
 ## Key Claims
+
 - Learning gain is the academic, professional and/or personal value added that higher education provides (p. 51).
 - Academics glory in complexity, yet when it comes to gathering evidence and making the case for their own and their sector's value, they complain about the administrative burden rather than embracing the complexity (p. 51).
 - Higher education is (also) a business, indeed an industry, contributing some 2.8% of UK GDP in 2012, substantially publicly funded (p. 51).
@@ -42,6 +43,7 @@ An opinion piece that, from a stance of enthusiasm for learning gain, suggests d
 **Related source notes:** [Nusche 2008](../source-notes/nusche-2008-assessment-learning-outcomes.md)
 
 ## Direct Quotes
+
 > "Indicators based on entry qualifications and exit performances can be affected by institutions, since it is possible for them to lower the former … and raise the latter." (Yorke, 2007, quoted p. 52)
 
 > "Universities have been expert at such dynamic conservatism, bureaucratizing hard to stay as close as possible to the same place for many decades." (p. 53)
@@ -49,8 +51,10 @@ An opinion piece that, from a stance of enthusiasm for learning gain, suggests d
 > "Would using our current assessments to measure learning gain be optimism, hypocrisy, pragmatism or wilful incompetence? Discuss." (p. 53)
 
 ## Open Questions
+
 - How can learning gain be measured in a way that accounts for the individual learner's perspective?
 - How can the problem of what assessment scores mean be addressed?
 
 ## Tags
+
 `learning-gain` `assessment` `value-added` `higher-education`

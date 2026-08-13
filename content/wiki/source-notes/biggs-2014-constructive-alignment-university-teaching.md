@@ -1,13 +1,13 @@
 ---
-title: "Constructive Alignment in University Teaching"
-type: source-note
-author: "John Biggs"
-date: 2014
-source-type: article
-tags: [constructive-alignment, intended-learning-outcomes, assessment, quality-enhancement, higher-education]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+publish: true
+title: Constructive Alignment in University Teaching
+modified: 2026-08-08
+tags:
+  - constructive-alignment
+  - intended-learning-outcomes
+  - assessment
+  - quality-enhancement
+  - higher-education
 ---
 
 # Constructive Alignment in University Teaching
@@ -15,12 +15,14 @@ dg-publish: true
 **Author:** John Biggs
 **Year:** 2014
 **Source type:** article
-**Raw file:** [HERDSARHE2014v01p05_0.pdf](../../raw/articles/HERDSARHE2014v01p05_0.pdf)
+**Raw file:** [HERDSARHE2014v01p05\_0.pdf](../../raw/articles/HERDSARHE2014v01p05_0.pdf)
 
 ## Summary
+
 This article presents constructive alignment (CA) as an outcomes-based approach to teaching in which the learning outcomes that students are intended to achieve are defined before teaching takes place, and teaching and assessment methods are then designed to best achieve those outcomes and to assess the standard at which they have been achieved. Biggs traces the history of the concept from Tyler and Shuell, describes the operational framework of CA at the unit level, and discusses its implementation across the institution. He addresses three major issues: whether CA does what it claims, problems in implementing CA institution-wide, and the relationship between quality assurance and quality enhancement.
 
 ## Key Claims
+
 - Constructive alignment (CA) is an outcomes-based approach to teaching in which the learning outcomes that students are intended to achieve are defined before teaching takes place (p. 5).
 - Teaching and assessment methods are then designed to best achieve those outcomes and to assess the standard at which they have been achieved (p. 5).
 - The essential ideas underlying constructive alignment were proposed over sixty years ago by Ralph Tyler, who asked four questions about educational purposes, experiences, organisation, and evaluation (p. 6).
@@ -45,6 +47,7 @@ This article presents constructive alignment (CA) as an outcomes-based approach 
 **Related source notes:** [Biggs Constructive Alignment](../source-notes/biggs-constructive-alignment.md) · [Deeley et al 2019](../source-notes/deeley-2019-wicked-problem-assessment-feedback.md)
 
 ## Direct Quotes
+
 > "Constructive alignment (CA) is an outcomes-based approach to teaching in which the learning outcomes that students are intended to achieve are defined before teaching takes place." (p. 5)
 
 > "The verb in the ILO becomes the common link that establishes alignment between the ILO, the teaching/learning activities, and the assessment tasks." (p. 8)
@@ -52,8 +55,10 @@ This article presents constructive alignment (CA) as an outcomes-based approach 
 > "Quality enhancement subsumes quality assurance... Whereas QA is reactive, QE is proactive." (p. 18-19)
 
 ## Open Questions
+
 - How can constructive alignment be implemented institution-wide despite financial and workload constraints?
 - How can the shift from quality assurance to quality enhancement be achieved?
 
 ## Tags
+
 `constructive-alignment` `intended-learning-outcomes` `assessment` `quality-enhancement` `higher-education`

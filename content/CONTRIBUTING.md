@@ -8,7 +8,7 @@ Thanks for your interest in the LLM Research Wiki. This repository is a **templa
 Fixes and improvements to the seed everyone forks: the `CLAUDE.md` schema, the page templates, the workflows (ingest / query / lint), the folder conventions, and the documentation in `README.md`. These are the changes that belong as pull requests against this repo.
 
 **2. Your own wiki content.**
-The concept pages, author pages, source notes, and syntheses you build by ingesting your own sources. These belong in *your fork*, not here. Please don't open pull requests adding your personal research content to the template — keep this repo unspecialised so it stays useful as a starting point for others.
+The concept pages, author pages, source notes, and syntheses you build by ingesting your own sources. These belong in _your fork_, not here. Please don't open pull requests adding your personal research content to the template — keep this repo unspecialised so it stays useful as a starting point for others.
 
 ## How to propose a change to the template
 

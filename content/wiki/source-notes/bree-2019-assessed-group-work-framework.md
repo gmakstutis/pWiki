@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "An Institute-Wide Framework for Assessed Group Work: Development and Initial Implementation in an Irish Higher Education Institution"
-type: source-note
-author: "Ronan Bree, Colin Cooney, Moira Maguire, Peter Morris & Paula Mullen"
-date: 2019
-source-type: article
-tags: [group-work, assessment, higher-education, programme-assessment, student-experience]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+modified: 2026-08-08
+tags:
+  - group-work
+  - assessment
+  - higher-education
+  - programme-assessment
+  - student-experience
 ---
 
 # An Institute-Wide Framework for Assessed Group Work: Development and Initial Implementation in an Irish Higher Education Institution
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Bree et al 2019.pdf](../../raw/articles/Bree%20et%20al%202019.pdf)
 
 ## Summary
+
 In response to feedback from students and staff, a framework and set of guidelines around assessed group work were developed by Dundalk Institute of Technology's Learning and Teaching sub-committee of Academic Council. This article describes the development, implementation, and initial evaluation of the framework and its impact. The mixed-method evaluation involved multiple stakeholders — student representatives, academic staff, and key informants — and suggests the framework is having a positive impact on both the staff and student experience.
 
 ## Key Claims
+
 - Group learning is widely recognised as beneficial, and group projects and other forms of group work are widely and increasingly used as part of the assessment process in higher education (p. 347).
 - The greatest challenge to group work is students' perceptions of (un)fairness (p. 348).
 - Group work does not automatically benefit students; if it is to be successful, it needs to be facilitated and students need preparation and guidance (p. 348).
@@ -47,6 +49,7 @@ In response to feedback from students and staff, a framework and set of guidelin
 **Related source notes:** [Andrade 2020](../source-notes/andrade-2020-cross-cutting-skills.md)
 
 ## Direct Quotes
+
 > "Assessing only the final product or outcome may lead '... to inevitable inequities in the allocation of grades where the efforts of hard working students may be missed and students who "free ride" are unjustly rewarded'." (Caple & Bogle, 2013, p. 200, quoted p. 348)
 
 > "Group work does not automatically benefit students; if it is to be successful, it needs to be facilitated and students need preparation and guidance." (p. 348)
@@ -54,8 +57,10 @@ In response to feedback from students and staff, a framework and set of guidelin
 > "A single mark, while it may be appropriate in some circumstances, is likely to be perceived as unfair." (p. 352)
 
 ## Open Questions
+
 - How can the framework be embedded at the programme level through programmatic reviews?
 - How can training be targeted to support staff in planning, managing, and assessing group work?
 
 ## Tags
+
 `group-work` `assessment` `higher-education` `programme-assessment` `student-experience`

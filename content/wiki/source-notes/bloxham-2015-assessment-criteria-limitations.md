@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "Let's Stop the Pretence of Consistent Marking: Exploring the Multiple Limitations of Assessment Criteria"
-type: source-note
-author: "Sue Bloxham, Birgit den Outer, Jane Hudson & Margaret Price"
-date: 2015
-source-type: article
-tags: [assessment-criteria, marking, grading, standards, reliability]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+modified: 2026-08-08
+tags:
+  - assessment-criteria
+  - marking
+  - grading
+  - standards
+  - reliability
 ---
 
 # Let's Stop the Pretence of Consistent Marking: Exploring the Multiple Limitations of Assessment Criteria
@@ -15,12 +15,14 @@ dg-publish: true
 **Author:** Sue Bloxham, Birgit den Outer, Jane Hudson & Margaret Price
 **Year:** 2015
 **Source type:** article
-**Raw file:** [Bloxham_et_al_2015.pdf](../../raw/articles/Bloxham_et_al_2015.pdf)
+**Raw file:** [Bloxham\_et\_al\_2015.pdf](../../raw/articles/Bloxham_et_al_2015.pdf)
 
 ## Summary
+
 This project used a form of Kelly's Repertory Grid method to examine the characteristics that 24 experienced UK assessors notice in distinguishing between students' performance in four contrasting subject disciplines (psychology, nursing, chemistry, history) — that is, their implicit assessment criteria. Variation in the choice, ranking, and scoring of criteria was evident. The results imply that assessment decisions at this level are so complex, intuitive, and tacit that variability is inevitable, and universities should be more honest with themselves and with students about this.
 
 ## Key Claims
+
 - Unreliability in marking is well documented, yet we lack studies that have investigated assessors' detailed use of assessment criteria (p. 2).
 - A key source of variation is attributed to assessors' different professional knowledge, experience, values, and institutions (p. 3).
 - Wolf (1995) contends that markers acquire fixed habits in their marking which can influence their grading in ways that they may not be aware of (p. 3).
@@ -48,6 +50,7 @@ This project used a form of Kelly's Repertory Grid method to examine the charact
 **Related source notes:** [Bloxham 2009](../source-notes/bloxham-2009-marking-moderation.md) · [Bloxham et al 2011](../source-notes/bloxham-2011-assessment-criteria-grading.md)
 
 ## Direct Quotes
+
 > "Even where assessors agree marks (which, in the authors' experience, lecturers often claim to), this may not necessarily be for the same reasons." (p. 3)
 
 > "Short of turning our assessment methods into standardised tests, we have to live with a large element of unreliability and a recognition that grading is judgement and not measurement." (p. 23)
@@ -55,8 +58,10 @@ This project used a form of Kelly's Repertory Grid method to examine the charact
 > "Universities need to be more honest with themselves and with students and help them to understand that application of assessment criteria is a complex judgement and there is rarely an incontestable interpretation of their meaning." (p. 23)
 
 ## Open Questions
+
 - How can community processes aimed at developing shared understanding of assessment standards be made sustainable?
 - How can a profile of multiple assessors' judgements be used to determine degree outcomes fairly?
 
 ## Tags
+
 `assessment-criteria` `marking` `grading` `standards` `reliability`

@@ -1,13 +1,15 @@
 ---
+publish: true
 title: "HE in FE: Vocationalism, Class and Social Justice"
-type: source-note
-author: "James Avis & Kevin Orr"
-date: 2016
-source-type: article
-tags: [higher-education, further-education, vocationalism, social-justice, social-mobility, class, widening-participation]
-created: 2026-08-08
-updated: 2026-08-13
-dg-publish: true
+modified: 2026-08-13
+tags:
+  - higher-education
+  - further-education
+  - vocationalism
+  - social-justice
+  - social-mobility
+  - class
+  - widening-participation
 ---
 
 # HE in FE: Vocationalism, Class and Social Justice
@@ -18,9 +20,11 @@ dg-publish: true
 **Raw file:** [Avis & Orr 2016.pdf](../../raw/articles/Avis%20&%20Orr%202016.pdf)
 
 ## Summary
+
 This paper examines Higher Education in Further Education (HE in FE) in England, drawing on the Wolf (2015) report and HEFCE's Participation of Local Area (POLAR) classifications, alongside key literature. It interrogates conceptualisations of vocationalism and its articulation with class and gender. The paper argues that while HE in FE has limited traction in facilitating social mobility, it does serve as a resource in the struggle for social justice.
 
 ## Key Claims
+
 - HE in FE has limited traction in facilitating social mobility but does serve as a resource in the struggle for social justice (p. 2).
 - The expansion of HE, in England referred to as Widening Participation (WP), has been seen as pivotal to the development of knowledge-based economies, but the claims made for the knowledge-based economy are overstated (p. 2-3).
 - Wolf doubts the sustainability or economic justification of the knowledge economy stance and suggests that the development of vocational education in Further Education would make a greater contribution to skill development, warning against the colonisation of vocational education by universities (p. 3).
@@ -50,6 +54,7 @@ This paper examines Higher Education in Further Education (HE in FE) in England,
 **Related source notes:** [Lerman 2019](../source-notes/lerman-2019-apprenticeship-investments.md)
 
 ## Direct Quotes
+
 > "Education cannot compensate for society" (Bernstein, 1970, quoted p. 10)
 
 > "If you work hard enough you can attain your dream'. This is the hope-goading gloss on the other side of sterner neoliberal injunctions, carried in policy and political discourse, that all individuals have responsibility to engage and succeed as lifelong learners in which they flexibly accumulate human capital." (Zipin et al., 2015, p. 233, quoted p. 11)
@@ -57,8 +62,10 @@ This paper examines Higher Education in Further Education (HE in FE) in England,
 > "Meritocracy does not aim to create a classless society, but it legitimizes the given hierarchical structure and empowers people to be socially re-classified." (Liu, 2011, p. 391, quoted p. 12)
 
 ## Open Questions
+
 - How can HE in FE courses focus on the use value of their courses rather than economic returns or the alienating discourse of employability?
 - How can the struggle for social justice extend beyond education to wider society?
 
 ## Tags
+
 `higher-education` `further-education` `vocationalism` `social-justice` `social-mobility` `class` `widening-participation`

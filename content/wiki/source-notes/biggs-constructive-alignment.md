@@ -1,13 +1,13 @@
 ---
-title: "Aligning Teaching for Constructing Learning"
-type: source-note
-author: "John Biggs"
-date: 2003
-source-type: article
-tags: [constructive-alignment, intended-learning-outcomes, assessment, curriculum-design, higher-education]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+publish: true
+title: Aligning Teaching for Constructing Learning
+modified: 2026-08-08
+tags:
+  - constructive-alignment
+  - intended-learning-outcomes
+  - assessment
+  - curriculum-design
+  - higher-education
 ---
 
 # Aligning Teaching for Constructing Learning
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Biggs.pdf](../../raw/articles/Biggs.pdf)
 
 ## Summary
+
 This article introduces 'constructive alignment' (CA), an approach to curriculum design that optimises the conditions for quality learning. CA starts with the notion that the learner constructs his or her own learning through relevant learning activities, and that the teacher's job is to create a learning environment that supports the learning activities appropriate to achieving the desired learning outcomes. The key is that all components in the teaching system — the curriculum and its intended outcomes, the teaching methods used, and the assessment tasks — are aligned to each other.
 
 ## Key Claims
+
 - Teaching and learning take place in a whole system, embracing classroom, departmental, and institutional levels; a poor system is one in which the components are not integrated and not tuned to support high-level learning (p. 1).
 - 'Constructive alignment' has two aspects: the 'constructive' aspect refers to the idea that students construct meaning through relevant learning activities — meaning is not imparted or transmitted from teacher to learner but is something learners have to create for themselves; the 'alignment' aspect refers to what the teacher does to set up a learning environment that supports the learning activities appropriate to achieving the desired learning outcomes (p. 1).
 - "What the student does is actually more important in determining what is learned than what the teacher does" (Shuell, 1986) (p. 1).
@@ -42,6 +44,7 @@ This article introduces 'constructive alignment' (CA), an approach to curriculum
 **Related source notes:** [Beattie et al 1997](../source-notes/beattie-1997-deep-surface-learning.md)
 
 ## Direct Quotes
+
 > "What the student does is actually more important in determining what is learned than what the teacher does." (Shuell, 1986, p. 429, quoted p. 1)
 
 > "The assessment is the curriculum, as far as the students are concerned. They will learn what they think they will be assessed on, not what is in the curriculum, or even on what has been 'covered' in class." (Ramsden, 1992, quoted p. 3)
@@ -49,8 +52,10 @@ This article introduces 'constructive alignment' (CA), an approach to curriculum
 > "To the teacher, assessment is at the end of the teaching-learning sequence of events, but to the student it is at the beginning." (p. 3)
 
 ## Open Questions
+
 - How can constructive alignment be implemented in disciplines where intended learning outcomes are difficult to specify in advance?
 - How can holistic judgments be made reliably in assessment?
 
 ## Tags
+
 `constructive-alignment` `intended-learning-outcomes` `assessment` `curriculum-design` `higher-education`

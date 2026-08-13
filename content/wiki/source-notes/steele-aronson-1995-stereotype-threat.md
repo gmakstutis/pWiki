@@ -1,13 +1,13 @@
 ---
-title: "Stereotype Threat and the Intellectual Test Performance of African Americans"
-type: source-note
-author: "Claude M. Steele & Joshua Aronson"
-date: 1995
-source-type: article
-tags: [stereotype-threat, race, performance, psychology, standardized-testing]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+publish: true
+title: Stereotype Threat and the Intellectual Test Performance of African Americans
+modified: 2026-08-08
+tags:
+  - stereotype-threat
+  - race
+  - performance
+  - psychology
+  - standardized-testing
 ---
 
 # Stereotype Threat and the Intellectual Test Performance of African Americans
@@ -15,12 +15,14 @@ dg-publish: true
 **Author:** Claude M. Steele & Joshua Aronson
 **Year:** 1995
 **Source type:** article
-**Raw file:** [Steele_Aronson_1995.pdf](../../raw/articles/Steele_Aronson_1995.pdf)
+**Raw file:** [Steele\_Aronson\_1995.pdf](../../raw/articles/Steele_Aronson_1995.pdf)
 
 ## Summary
+
 This foundational study introduces the concept of stereotype threat — being at risk of confirming, as self-characteristic, a negative stereotype about one's group. Studies 1 and 2 varied the stereotype vulnerability of Black participants taking a difficult verbal test by varying whether or not their performance was ostensibly diagnostic of ability. Blacks underperformed in relation to Whites in the ability-diagnostic condition but not in the nondiagnostic condition. Study 3 validated that ability-diagnosticity cognitively activated the racial stereotype, and Study 4 showed that mere salience of the stereotype could impair Blacks' performance even when the test was not ability diagnostic. The role of stereotype vulnerability in the standardized test performance of ability-stigmatized groups is discussed.
 
 ## Key Claims
+
 - Stereotype threat is being at risk of confirming, as self-characteristic, a negative stereotype about one's group (p. 797).
 - The existence of a negative stereotype about one's group means that anything one does or any of one's features that conform to it make the stereotype more plausible as a self-characterization in the eyes of others, and perhaps even in one's own eyes (p. 797).
 - Stereotype threat is experienced, essentially, as a self-evaluative threat (p. 797).
@@ -42,6 +44,7 @@ This foundational study introduces the concept of stereotype threat — being at
 **Related source notes:** [Ladson-Billings & Tate 1995](../source-notes/ladson-billings-tate-1995-critical-race-theory-education.md) · [Dweck 2006](../source-notes/dweck-2006-mindset.md)
 
 ## Direct Quotes
+
 > "Stereotype threat is being at risk of confirming, as self-characteristic, a negative stereotype about one's group." (p. 797)
 
 > "For the person to be threatened in this way, he need not even believe the stereotype. He need only know that it stands as a hypothesis about him in situations where the stereotype is relevant." (p. 798)
@@ -49,8 +52,10 @@ This foundational study introduces the concept of stereotype threat — being at
 > "The testing situation is not group-neutral." (p. 810)
 
 ## Open Questions
+
 - How can stereotype threat be alleviated in testing and educational situations?
 - How does stereotype threat contribute to group differences in standardized test performance?
 
 ## Tags
+
 `stereotype-threat` `race` `performance` `psychology` `standardized-testing`

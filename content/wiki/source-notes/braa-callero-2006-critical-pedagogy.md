@@ -1,13 +1,14 @@
 ---
-title: "Critical Pedagogy and Classroom Praxis"
-type: source-note
-author: "Dean Braa & Peter Callero"
-date: 2006
-source-type: article
-tags: [critical-pedagogy, praxis, sociology, reproduction, hegemony, emancipation]
-created: 2026-08-08
-updated: 2026-08-13
-dg-publish: true
+publish: true
+title: Critical Pedagogy and Classroom Praxis
+modified: 2026-08-13
+tags:
+  - critical-pedagogy
+  - praxis
+  - sociology
+  - reproduction
+  - hegemony
+  - emancipation
 ---
 
 # Critical Pedagogy and Classroom Praxis
@@ -18,9 +19,11 @@ dg-publish: true
 **Raw file:** [Braa & Callero 2006.pdf](../../raw/articles/Braa%20&%20Callero%202006.pdf)
 
 ## Summary
+
 This paper argues for the incorporation of critical pedagogy in the teaching of sociology. It establishes the theoretical and emancipatory rationale for critical pedagogy with a review of the neomarxist concept of reproduction, then examines a specific application of critical pedagogy in the sociology curriculum of Western Oregon University, giving particular attention to a course sequence on community organizing in which students developed a successful tenants union that serves as a vehicle for both personal and social transformation.
 
 ## Key Claims
+
 - Critical pedagogy is a radical approach to education that seeks to transform oppressive structures in society using democratic and activist approaches to teaching and learning (p. 357).
 - A fundamental premise of neomarxist critical pedagogy is that systems of formal education in modern society function, in part, to maintain and reproduce an exploitative capitalist system (p. 357).
 - For Gramsci, hegemony is the domination of society through the use of a range of structures like trade unions, churches, families, and schools, which convey a system of values, attitudes, behaviors, beliefs, and morality that supports the established social order (p. 358).
@@ -44,6 +47,7 @@ This paper argues for the incorporation of critical pedagogy in the teaching of 
 **Related source notes:** None yet
 
 ## Direct Quotes
+
 > "Every relationship of hegemony is necessarily an educational relationship." (Gramsci, quoted p. 357)
 
 > "The most significant defining feature of critical pedagogy is its emphasis on the emancipatory potential of education." (p. 358)
@@ -51,7 +55,9 @@ This paper argues for the incorporation of critical pedagogy in the teaching of 
 > "Praxis refers to the actual application of knowledge to the transformation of society." (p. 359)
 
 ## Open Questions
+
 - How can the success of critical pedagogy be measured, given that it seeks a change in student consciousness that goes beyond a shift in attitude?
 
 ## Tags
+
 `critical-pedagogy` `praxis` `sociology` `reproduction` `hegemony` `emancipation`

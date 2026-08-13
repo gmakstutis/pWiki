@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "Cross-Cutting Skills: Strategies for Teaching & Learning"
-type: source-note
-author: "Maureen Snow Andrade"
-date: 2020
-source-type: article
-tags: [cross-cutting-skills, high-impact-practices, self-regulated-learning, teaching-strategies, higher-education]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+modified: 2026-08-08
+tags:
+  - cross-cutting-skills
+  - high-impact-practices
+  - self-regulated-learning
+  - teaching-strategies
+  - higher-education
 ---
 
 # Cross-Cutting Skills: Strategies for Teaching & Learning
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Andrade 2020.pdf](../../raw/articles/Andrade%202020.pdf)
 
 ## Summary
+
 A conceptual article focused on teaching and learning strategies aimed at helping students in higher education develop cross-cutting skills such as communication, critical thinking, teamwork, problem-solving, and working with diverse others. Within the framework of high impact practices (HIPs) and their elements, the article shares practical ideas for developing and responding to assignments (team ePortfolios, collaborative projects, peer review, reflection) and measuring associated learning outcomes. It draws on self-regulated learning, metacognition, and the theory of transactional distance to guide instructor response.
 
 ## Key Claims
+
 - Employers favor candidates who demonstrate proficiency in skills that cut across fields of study: written and oral communication, teamwork, ethical decision-making, critical thinking, and the ability to apply knowledge in real-life situations (p. 165).
 - "Most employers say that these cross-cutting skills are more important to an individual's success at their company than his or her undergraduate major" (Hart Research Associates, 2015) (p. 165).
 - Recent college graduates rank their level of preparation much higher in these areas than do employers, suggesting higher education institutions need to be more effective in preparing learners (p. 165).
@@ -41,6 +43,7 @@ A conceptual article focused on teaching and learning strategies aimed at helpin
 **Related source notes:** [Andrade & Alden-Rivers 2019](../source-notes/andrade-alden-rivers-2019-flexible-learning-framework.md)
 
 ## Direct Quotes
+
 > "most employers say that these cross-cutting skills are more important to an individual's success at their company than his or her undergraduate major" (Hart Research Associates, 2015, p. 1, quoted p. 165)
 
 > "In groups, members share information, are individually accountable, and have varied skills while in teams, members have a common purpose, focus on collective performance, are mutually accountable, and contribute complementary skills" (p. 168)
@@ -48,8 +51,10 @@ A conceptual article focused on teaching and learning strategies aimed at helpin
 > "Autonomy does not reflect learning in isolation but the ability to make appropriate choices, monitor learning, and apply effective learning strategies" (p. 175)
 
 ## Open Questions
+
 - How can cross-cutting skills be measured reliably, given that they are rarely an explicit part of particular course curricula?
 - How can the tension between individual and collective accountability in teamwork be managed?
 
 ## Tags
+
 `cross-cutting-skills` `high-impact-practices` `self-regulated-learning` `teaching-strategies` `higher-education`

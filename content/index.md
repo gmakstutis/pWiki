@@ -1,9 +1,9 @@
 ---
-dg-home: true
-dg-publish: true
+publish: true
+modified: 2026-08-13T09:42:04.431Z
 ---
 
-# Research Wiki — Index
+# Pedagogy Research Wiki
 
 > Last updated: 2026-08-13
 
@@ -12,6 +12,7 @@ dg-publish: true
 ## How to Navigate
 
 The index is organized in four layers:
+
 1. **Concept clusters** — thematic groupings for fast query navigation; check these first
 2. **Authors** — all author pages, grouped by area
 3. **Everything else** — debates, syntheses, source notes, projects
@@ -24,7 +25,8 @@ The index is organized in four layers:
 ## Concept Clusters
 
 ### Cluster A — Assessment & Feedback
-*How learning is measured, evaluated, and fed back, including grading, ungrading, and the design of assessment.*
+
+_How learning is measured, evaluated, and fed back, including grading, ungrading, and the design of assessment._
 **Core pages:** [Assessment](wiki/concepts/assessment.md) · [Feedback](wiki/concepts/feedback.md) · [Formative Assessment](wiki/concepts/formative-assessment.md) · [Summative Assessment](wiki/concepts/summative-assessment.md) · [Constructive Alignment](wiki/concepts/constructive-alignment.md) · [Ungrading](wiki/concepts/ungrading.md)
 **Key authors:** David Boud, Sue Bloxham, Margaret Price, Susan Orr, John Biggs, Susan Blum, David Baume
 
@@ -46,7 +48,8 @@ The index is organized in four layers:
 ---
 
 ### Cluster B — Learning & Cognition
-*How learners process, understand, and develop, including learning styles, approaches, mindsets, and reflection.*
+
+_How learners process, understand, and develop, including learning styles, approaches, mindsets, and reflection._
 **Core pages:** [Learning Approaches](wiki/concepts/learning-approaches.md) · [Deep Learning](wiki/concepts/deep-learning.md) · [Surface Learning](wiki/concepts/surface-learning.md) · [Learning Styles](wiki/concepts/learning-styles.md) · [Mindset](wiki/concepts/mindset.md) · [Experiential Learning](wiki/concepts/experiential-learning.md) · [Reflective Practice](wiki/concepts/reflective-practice.md)
 **Key authors:** John Biggs, Noel Entwistle, Ference Marton, Gordon Pask, David Kolb, Carol Dweck, Donald Schön, John Dewey
 
@@ -68,7 +71,8 @@ The index is organized in four layers:
 ---
 
 ### Cluster C — Critical & Social Perspectives
-*Education, power, race, and social transformation, including critical pedagogy, critical race theory, and social justice.*
+
+_Education, power, race, and social transformation, including critical pedagogy, critical race theory, and social justice._
 **Core pages:** [Critical Pedagogy](wiki/concepts/critical-pedagogy.md) · [Social Justice](wiki/concepts/social-justice.md) · [Critical Race Theory in Education](wiki/concepts/critical-race-theory-in-education.md) · [Stereotype Threat](wiki/concepts/stereotype-threat.md) · [Widening Participation](wiki/concepts/widening-participation.md) · [Social Mobility](wiki/concepts/social-mobility.md)
 **Key authors:** Paulo Freire, Antonio Gramsci, Gloria Ladson-Billings, Claude Steele, James Avis, Kevin Orr
 
@@ -90,7 +94,8 @@ The index is organized in four layers:
 ---
 
 ### Cluster D — Professional & Community Learning
-*How professionals and students learn together, including observation, communities, engagement, and relational pedagogy.*
+
+_How professionals and students learn together, including observation, communities, engagement, and relational pedagogy._
 **Core pages:** [Communities of Practice](wiki/concepts/communities-of-practice.md) · [Collaborative Learning](wiki/concepts/collaborative-learning.md) · [Peer Observation](wiki/concepts/peer-observation.md) · [Professional Development](wiki/concepts/professional-development.md) · [Student Engagement](wiki/concepts/student-engagement.md) · [Relational Pedagogy](wiki/concepts/relational-pedagogy.md) · [Research-Teaching Nexus](wiki/concepts/research-teaching-nexus.md)
 **Key authors:** Etienne Wenger, David Gosling, Martin Compton, Theresa Chika-James
 
@@ -111,7 +116,8 @@ The index is organized in four layers:
 ---
 
 ### Cluster E — Employability & Work
-*Skills, work, and the relationship between education and the labour market.*
+
+_Skills, work, and the relationship between education and the labour market._
 **Core pages:** [Employability](wiki/concepts/employability.md) · [Work Experience](wiki/concepts/work-experience.md) · [Work-Based Learning](wiki/concepts/work-based-learning.md) · [Apprenticeship](wiki/concepts/apprenticeship.md) · [Competency-Based Education](wiki/concepts/competency-based-education.md) · [Cross-Cutting Skills](wiki/concepts/cross-cutting-skills.md)
 **Key authors:** Lee Harvey, Peter Knight, Robert Lerman, Maureen Snow Andrade, Jason Frank
 
@@ -127,7 +133,8 @@ The index is organized in four layers:
 ---
 
 ### Cluster F — Flexible & Online Learning
-*Flexible, online, and open approaches to education.*
+
+_Flexible, online, and open approaches to education._
 **Core pages:** [Flexible Learning](wiki/concepts/flexible-learning.md) · [Online Learning](wiki/concepts/online-learning.md) · [Open Educational Resources](wiki/concepts/open-educational-resources.md)
 **Key authors:** Maureen Snow Andrade
 
@@ -146,6 +153,7 @@ _No pages yet. Syntheses are added when a cluster of related pages has enough so
 ## Authors
 
 ### Assessment & Feedback
+
 - [David Boud](wiki/authors/boud.md) — Assessment, feedback, and reflection.
 - [Sue Bloxham](wiki/authors/bloxham.md) — Marking, moderation, and assessment criteria.
 - [Margaret Price](wiki/authors/price.md) — Assessment standards and communities of practice.
@@ -158,6 +166,7 @@ _No pages yet. Syntheses are added when a cluster of related pages has enough so
 - [Helen Timperley](wiki/authors/timperley.md) — Feedback and professional development.
 
 ### Learning & Cognition
+
 - [David Kolb](wiki/authors/kolb.md) — Experiential learning and learning styles.
 - [Carol Dweck](wiki/authors/dweck.md) — Mindsets and beliefs about ability.
 - [Donald Schön](wiki/authors/schon.md) — Reflective practice and reflection-in-action.
@@ -168,6 +177,7 @@ _No pages yet. Syntheses are added when a cluster of related pages has enough so
 - [Lev Vygotsky](wiki/authors/vygotsky.md) — Sociocultural learning and the Zone of Proximal Development.
 
 ### Critical & Social Perspectives
+
 - [Paulo Freire](wiki/authors/freire.md) — Critical pedagogy and liberation.
 - [Antonio Gramsci](wiki/authors/gramsci.md) — Hegemony.
 - [Gloria Ladson-Billings](wiki/authors/ladson-billings.md) — Critical race theory in education.
@@ -179,6 +189,7 @@ _No pages yet. Syntheses are added when a cluster of related pages has enough so
 - [Paul Warmington](wiki/authors/warmington.md) — Race and education.
 
 ### Professional & Community Learning
+
 - [Etienne Wenger](wiki/authors/wenger.md) — Communities of practice.
 - [David Gosling](wiki/authors/gosling.md) — Peer observation of teaching.
 - [Martin Compton](wiki/authors/compton.md) — Unorthodox observation of teaching.
@@ -186,6 +197,7 @@ _No pages yet. Syntheses are added when a cluster of related pages has enough so
 - [Michel Foucault](wiki/authors/foucault.md) — Power and discourse.
 
 ### Employability & Work
+
 - [Lee Harvey](wiki/authors/harvey.md) — Work experience and employability.
 - [Peter Knight](wiki/authors/knight.md) — Work experience and assessment.
 - [Robert Lerman](wiki/authors/lerman.md) — Apprenticeship and work-based learning.
@@ -193,10 +205,12 @@ _No pages yet. Syntheses are added when a cluster of related pages has enough so
 - [Jason Frank](wiki/authors/frank.md) — Competency-based medical education.
 
 ### Research & Teaching Nexus
+
 - [Mick Healey](wiki/authors/healey.md) — Research-teaching nexus.
 - [Alan Jenkins](wiki/authors/jenkins.md) — Research-teaching nexus.
 
 ### Other Authors
+
 - [Alex Bell](wiki/authors/bell.md) — Inclusive grading in creative education.
 - [Ronan Bree](wiki/authors/bree.md) — Assessed group work.
 - [Graham Byrne](wiki/authors/byrne.md) — Peer development.

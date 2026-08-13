@@ -29,6 +29,7 @@ The principle: raw docs are ingested once and left alone. The wiki is a living s
 ## Folder Conventions
 
 ### raw/
+
 Immutable source documents. Subfolders by type:
 
 | Folder | Contents |
@@ -42,6 +43,7 @@ Immutable source documents. Subfolders by type:
 | `raw/images/` | Diagrams, score excerpts, figures referenced in source notes |
 
 ### wiki/
+
 LLM-maintained markdown pages. Subfolders by page type:
 
 | Folder | Contents |
@@ -66,6 +68,7 @@ LLM-maintained markdown pages. Subfolders by page type:
 | `wiki/projects/lectures-seminars/` | Prep and documentation for lectures and seminars |
 
 ### outputs/
+
 Finished deliverables. Never edited by the agent unless explicitly asked.
 
 | Folder | Contents |
@@ -76,6 +79,7 @@ Finished deliverables. Never edited by the agent unless explicitly asked.
 | `outputs/tables/` | Reference tables, comparison charts |
 
 ### archive/
+
 Deprecated pages, old drafts, superseded syntheses. Moved here to preserve history without cluttering active wiki.
 
 ---
@@ -316,7 +320,7 @@ Source support:
 
 ---
 
-### Project Page (wiki/projects/[name]/index.md)
+### Project Page (wiki/projects/\[name]/index.md)
 
 ```markdown
 ---
@@ -361,7 +365,7 @@ updated: YYYY-MM-DD
 
 ### Workflow 1: INGEST
 
-**Trigger:** Paulo says "ingest [source]" or "ingest [filename]"
+**Trigger:** Paulo says "ingest \[source]" or "ingest \[filename]"
 
 **Steps:**
 
@@ -447,6 +451,7 @@ These rules apply whenever creating or updating any page:
 Paulo's research is rooted in Continental philosophy of science and technology, music composition, and new music studies. Understanding this context is essential for correct interpretation of sources.
 
 ### Core Research Areas
+
 - **Posthuman music** — how posthumanism reframes the human in musical performance and composition
 - **Artistic intelligence** — intelligence as a property of artistic process; relation to AI and machine creativity
 - **Assemblage theory for music** — applying DeLanda's reading of Deleuze-Guattari to musical works and institutions
@@ -457,6 +462,7 @@ Paulo's research is rooted in Continental philosophy of science and technology, 
 - **Experimentation vs. interpretation** — Paulo's recurring frame for distinguishing performative modes
 
 ### Key Thinkers
+
 | Author | Core relevance |
 |---|---|
 | Gilles Deleuze | Multiplicity, difference, the virtual, assemblage (with Guattari) |
@@ -473,4 +479,4 @@ When ingesting a source, always check if it engages any of these thinkers or the
 
 ---
 
-*This file is the law of the wiki. When in doubt, return here.*
+_This file is the law of the wiki. When in doubt, return here._

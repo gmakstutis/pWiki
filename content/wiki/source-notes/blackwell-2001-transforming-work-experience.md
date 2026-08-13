@@ -1,13 +1,13 @@
 ---
-title: "Transforming Work Experience in Higher Education"
-type: source-note
-author: "Alison Blackwell, Lindsey Bowes, Lee Harvey, Anthony J. Hesketh & Peter T. Knight"
-date: 2001
-source-type: article
-tags: [work-experience, employability, higher-education, sandwich-courses, reflection]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+publish: true
+title: Transforming Work Experience in Higher Education
+modified: 2026-08-08
+tags:
+  - work-experience
+  - employability
+  - higher-education
+  - sandwich-courses
+  - reflection
 ---
 
 # Transforming Work Experience in Higher Education
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Blackwell et al 2001.pdf](../../raw/articles/Blackwell%20et%20al%202001.pdf)
 
 ## Summary
+
 This article reports on four empirical studies of work experience in higher education, which suggest that work experience is related to a more positive view of the learning experience and to higher employment rates. However, retrospective views of graduates tend to be more positive than those of current undergraduates, and there are distinct subject variations in the impact of different types of work experience. The potential is more likely to be realised where work experience placements have six characteristics of good practice and where the higher education curriculum consistently encourages students to reflect well on their own learning.
 
 ## Key Claims
+
 - Work experience can contribute to higher educational standards and to the development of a flexible, highly-skilled and enterprising labour force (p. 269).
 - The Dearing Report (NCIHE, 1997) concluded that 'students can benefit from experience in many different settings, structured and informal, paid and unpaid' (p. 270).
 - Claims made for work experience include: changing teachers' attitudes, a more relevant curriculum, informing employers, an employability signal, and motivating learners to achieve higher grades (p. 270).
@@ -44,6 +46,7 @@ This article reports on four empirical studies of work experience in higher educ
 **Related source notes:** [Lerman 2019](../source-notes/lerman-2019-apprenticeship-investments.md)
 
 ## Direct Quotes
+
 > "students can benefit from experience in many different settings, structured and informal, paid and unpaid. Their academic experience should help them understand how experience relates to their personal and future development" (NCIHE, 1997, para. 9.30, quoted p. 270)
 
 > "Neither experience of work, nor any form of work experience appeared to be intrinsically beneficial. Quality of work experience depends upon its fitness for purpose as an aid to learning and it is the learning that comes from it that is important." (p. 282)
@@ -51,8 +54,10 @@ This article reports on four empirical studies of work experience in higher educ
 > "The quality of students' reflection is fundamental to the quality of learning." (p. 283)
 
 ## Open Questions
+
 - Why do employers favour sandwich graduates, and why are thin-sandwich graduates favoured over thick-sandwich graduates in certain professional areas?
 - What other kinds of work experience, apart from embedded placements, provide a labour market advantage for graduates?
 
 ## Tags
+
 `work-experience` `employability` `higher-education` `sandwich-courses` `reflection`

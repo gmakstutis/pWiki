@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "Identifying Student Retention Factors of a UK University Using the Concept of a Learning Community: A Qualitative Approach"
-type: source-note
-author: "Alexandros Chrysikos & Stephen Catterall"
-date: 2020
-source-type: article
-tags: [learning-communities, student-retention, academic-integration, social-integration, computing-education]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+modified: 2026-08-08
+tags:
+  - learning-communities
+  - student-retention
+  - academic-integration
+  - social-integration
+  - computing-education
 ---
 
 # Identifying Student Retention Factors of a UK University Using the Concept of a Learning Community: A Qualitative Approach
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Chrysikos & Catterall 2020.pdf](../../raw/articles/Chrysikos%20%26%20Catterall%202020.pdf)
 
 ## Summary
+
 This qualitative study investigated the experience of learning communities amongst first-year undergraduate computing students at a UK university, using the concept of a learning community to examine its influence on student academic and social integration. Using the 'unfolding matrix' completed during group interviews, the data analysis revealed that learning communities critically affect students' academic and social integration. The importance of student support and guidance from academic staff, student relationships with other students and academic staff, developing a sense of personal awareness, and the need to develop an effective academic skill-set to succeed were identified as critical.
 
 ## Key Claims
+
 - Theoretical models of student retention and transition are strongly influenced by Tinto's student integration theory, which emphasises social and academic integration in relation to a student's commitment to the institution (p. 91).
 - A learning community was defined by Tinto (1998) as 'co-registration or block scheduling that enables students to take courses together' (p. 91).
 - In the UK, where degrees are more often single-subject based, students participate as a cohort, meaning learning communities are already being adopted (p. 91).
@@ -41,6 +43,7 @@ This qualitative study investigated the experience of learning communities among
 **Related source notes:** [Au 2009](../source-notes/au-2009-communities-of-practice.md)
 
 ## Direct Quotes
+
 > "The theoretical models of student retention and transition are strongly influenced by Tinto's student integration theory." (p. 91)
 
 > "UK university learning communities help first-year undergraduate computing students to become academically and socially integrated into a university." (p. 99)
@@ -48,8 +51,10 @@ This qualitative study investigated the experience of learning communities among
 > "The 'unfolding matrix' is a qualitative data collection technique that is used to assess heuristic knowledge." (p. 96)
 
 ## Open Questions
+
 - How can learning communities be designed to support the academic and social integration of diverse student populations?
 - How can institutions identify and support students at risk of dropping out?
 
 ## Tags
+
 `learning-communities` `student-retention` `academic-integration` `social-integration` `computing-education`

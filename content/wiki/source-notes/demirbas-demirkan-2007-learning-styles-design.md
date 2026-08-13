@@ -1,13 +1,13 @@
 ---
-title: "Learning Styles of Design Students and the Relationship of Academic Performance and Gender in Design Education"
-type: source-note
-author: "O. Osman Demirbas & Halime Demirkan"
-date: 2007
-source-type: article
-tags: [design-education, learning-styles, experiential-learning, gender, academic-performance]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+publish: true
+title: Learning Styles of Design Students and the Relationship of Academic Performance and Gender in Design Education
+modified: 2026-08-08
+tags:
+  - design-education
+  - learning-styles
+  - experiential-learning
+  - gender
+  - academic-performance
 ---
 
 # Learning Styles of Design Students and the Relationship of Academic Performance and Gender in Design Education
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Demirbas & Demirkan 2007.pdf](../../raw/articles/Demirbas%20%26%20Demirkan%202007.pdf)
 
 ## Summary
+
 This study focuses on design education using Experiential Learning Theory (ELT) and explores the effects of learning styles and gender on the performance scores of freshman design students in three successive academic years at Bilkent University, Turkey. Findings indicate that the distribution of design students through learning style type preference was more concentrated in assimilating and converging groups. The learning style preferences did not significantly differ by gender. Although there is no consistency in all three groups, results indicate that the performance scores of males were higher in technology-based courses, whereas scores of females were higher in artistic and fundamental courses and in the semester academic performance scores (GPA). The performance scores of converging and diverging students differed significantly in favor of converging students only in design courses.
 
 ## Key Claims
+
 - Design education can be considered as being in line with the Experiential Learning Theory (ELT) of Kolb (1984) (p. 345).
 - Schön (1983, 1987) observed that learning in the studio developed through a process he called 'reflection-in-action' (p. 345).
 - The learning process in design education is characterized by continual dialogue, with students learning from sharing information and from the critiques of the jury members (p. 346).
@@ -42,6 +44,7 @@ This study focuses on design education using Experiential Learning Theory (ELT) 
 **Related source notes:** [Casakin & Miller 2008](../source-notes/casakin-miller-2008-learning-styles-metaphor.md) · [Bhat 2014](../source-notes/bhat-2014-learning-styles-problem-solving.md)
 
 ## Direct Quotes
+
 > "The most important learning experience comes from what is known in other disciplines as self-reflection, a skill central to the acquisition of all design knowledge and skills." (p. 346)
 
 > "Since design is considered as a problem solving activity, the converger learners are successful in design process." (p. 357)
@@ -49,8 +52,10 @@ This study focuses on design education using Experiential Learning Theory (ELT) 
 > "In design education, instructors should provide a strategy that is relevant to the style of each learner in design studio process." (p. 345)
 
 ## Open Questions
+
 - How can design education cater to students with different learning styles?
 - How can the diverging students' creativity be harnessed despite their lower performance scores?
 
 ## Tags
+
 `design-education` `learning-styles` `experiential-learning` `gender` `academic-performance`

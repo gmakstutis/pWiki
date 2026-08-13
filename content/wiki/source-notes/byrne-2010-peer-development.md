@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "Peer Development as an Alternative to Peer Observation: A Tool to Enhance Professional Development"
-type: source-note
-author: "Jenny Byrne, Hazel Brown & Doreen Challen"
-date: 2010
-source-type: article
-tags: [peer-observation, peer-development, professional-development, collaborative-learning, higher-education]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+modified: 2026-08-08
+tags:
+  - peer-observation
+  - peer-development
+  - professional-development
+  - collaborative-learning
+  - higher-education
 ---
 
 # Peer Development as an Alternative to Peer Observation: A Tool to Enhance Professional Development
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Byrne et al 2010.pdf](../../raw/articles/Byrne%20et%20al%202010.pdf)
 
 ## Summary
+
 Within one department in a university in the South of England, questions arose about the value and purpose of the traditional 'peer observation' process, and as a result a new voluntary system of 'peer development' was introduced. This paper explains the rationale underpinning the new peer development process and explores its worth and value to those who have participated in it as a mechanism for professional development.
 
 ## Key Claims
+
 - Peer observation of teaching has become an increasingly common practice in higher education institutions worldwide, partly as a result of pressures from internal and external quality assurance systems (p. 1).
 - Many peer observation processes are developed by management and have a 'top-down' approach that may encourage compliance rather than engagement (p. 1).
 - Primarily evaluative, these practices offer little benefit to observed members of staff with regard to their own professional development (p. 1).
@@ -46,6 +48,7 @@ Within one department in a university in the South of England, questions arose a
 **Related source notes:** [An Introduction to Peer Observation of Teaching](../source-notes/introduction-peer-observation-teaching.md)
 
 ## Direct Quotes
+
 > "Peer observation of teaching may have become a tool to measure teaching performance (or under-performance) and be used in the appraisal of individuals. Such a tool then adds to the repertoire of those in authority where individuals may be subjected to the hegemony of a 'disciplinary society' and its normalising judgements." (p. 1)
 
 > "It's a tick-box culture." (Susie, quoted p. 3)
@@ -53,8 +56,10 @@ Within one department in a university in the South of England, questions arose a
 > "Ethos of support rather than judgement. A better feel-good factor." (Karen, quoted p. 4)
 
 ## Open Questions
+
 - How can the additional time required for peer development be legitimised by the institution?
 - How can peer development be extended to encompass more staff across all levels and programmes?
 
 ## Tags
+
 `peer-observation` `peer-development` `professional-development` `collaborative-learning` `higher-education`

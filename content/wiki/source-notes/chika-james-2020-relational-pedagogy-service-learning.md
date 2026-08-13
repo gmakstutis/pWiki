@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "Facilitating Service-Learning through Competencies Associated with Relational Pedagogy: A Personal Reflection"
-type: source-note
-author: "Theresa A. Chika-James"
-date: 2020
-source-type: article
-tags: [service-learning, relational-pedagogy, relational-competencies, teacher-student-relationship, management-education]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+modified: 2026-08-08
+tags:
+  - service-learning
+  - relational-pedagogy
+  - relational-competencies
+  - teacher-student-relationship
+  - management-education
 ---
 
 # Facilitating Service-Learning through Competencies Associated with Relational Pedagogy: A Personal Reflection
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Chika-James 2020.pdf](../../raw/articles/Chika-James%202020.pdf)
 
 ## Summary
+
 This reflective case study shows how four relational competencies associated with relational pedagogy — care, interpersonal communication, an attentive presence, and trust — facilitated service-learning amongst undergraduate students in a change management course. Drawing on personal reflections of teacher-student interactions, the study finds that although the demonstration of relational competencies created a conducive learning space that enabled students to gain practical knowledge, not all students welcomed this approach. The paper provides suggestions to educators engaged in service-learning and directions for further research.
 
 ## Key Claims
+
 - Service-learning is a form of experiential learning that enables students to gain practical experience of real-world issues related to course content through hands-on experience, personal reflection, community service and development (p. 268).
 - Four components are fundamental to service-learning: integration of course content with service to the community, students engaging in reflection, students demonstrating civic responsibility, and reciprocity (p. 269).
 - Relational pedagogy is based on the philosophy that teaching, learning and education is a relational process (p. 270).
@@ -40,6 +42,7 @@ This reflective case study shows how four relational competencies associated wit
 **Related source notes:** [Bree et al 2019](../source-notes/bree-2019-assessed-group-work-framework.md)
 
 ## Direct Quotes
+
 > "Relational pedagogy is based on the philosophy that teaching, learning and education is a relational process." (p. 270)
 
 > "The relational competence of educators generates better student achievements in the learning process than the classroom management and subject knowledge competence of educators." (Aspelin, 2012; Jensen et al., 2015, quoted p. 268)
@@ -47,8 +50,10 @@ This reflective case study shows how four relational competencies associated wit
 > "An educational relational approach void of demonstrating relational competencies makes the service-learning process a mere instrumental teaching practice." (p. 286)
 
 ## Open Questions
+
 - How can relational competencies be developed and demonstrated by educators?
 - How can relational pedagogy be sustained given time constraints and large class sizes?
 
 ## Tags
+
 `service-learning` `relational-pedagogy` `relational-competencies` `teacher-student-relationship` `management-education`

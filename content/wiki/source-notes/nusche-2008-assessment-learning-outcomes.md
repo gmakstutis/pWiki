@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "Assessment of Learning Outcomes in Higher Education: A Comparative Review of Selected Practices"
-type: source-note
-author: "Deborah Nusche"
-date: 2008
-source-type: article
-tags: [learning-outcomes, assessment, higher-education, accountability, comparative-education]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+modified: 2026-08-08
+tags:
+  - learning-outcomes
+  - assessment
+  - higher-education
+  - accountability
+  - comparative-education
 ---
 
 # Assessment of Learning Outcomes in Higher Education: A Comparative Review of Selected Practices
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Assessment of Learning Outcomes in Higher Education A Comparative Rev 2008.pdf](../../raw/articles/Assessment%20of%20Learning%20Outcomes%20in%20Higher%20Education%20A%20Comparative%20Rev%202008.pdf)
 
 ## Summary
+
 An OECD Education Working Paper providing an international perspective on current practices in standardized learning outcomes assessment in higher education. Based on illustrative evidence from 18 assessment instruments across Australia, Brazil, Canada, Mexico, the UK, and the USA, it proposes a typology of higher education learning outcomes (cognitive vs non-cognitive, knowledge vs skills, competencies) and reviews the conceptual, organizational, and methodological aspects of existing assessments.
 
 ## Key Claims
+
 - Higher education institutions face increasing pressures to provide accountability data and consumer information on the quality of teaching and learning, but existing ratings and rankings tend to neglect information on student learning outcomes, focusing instead on inputs, activities, and research outputs (p. 5).
 - Inputs, activities, and outputs have little intrinsic value in terms of student learning; they are only intermediate steps that may or may not lead to outcomes (p. 7).
 - Learning outcomes refer to "what a learner knows or can do as a result of learning" (Otter, 1992) (p. 7).
@@ -43,6 +45,7 @@ An OECD Education Working Paper providing an international perspective on curren
 **Related source notes:** [Andrade 2020](../source-notes/andrade-2020-cross-cutting-skills.md)
 
 ## Direct Quotes
+
 > "Learning outcomes refer to the personal changes or benefits that follow as a result of learning." (p. 7)
 
 > "Outcomes describe what the student actually achieves, as opposed to what the institution intends to teach." (p. 7)
@@ -50,8 +53,10 @@ An OECD Education Working Paper providing an international perspective on curren
 > "Formative assessment is a 'feedback loop in which teaching influences learning, learning influences outcomes, and assessment of outcomes is used to influence/improve teaching and, ultimately, learning.'" (Volkwein, 2003, p. 7, quoted p. 33)
 
 ## Open Questions
+
 - How can learning outcomes assessment avoid measuring students' prior schooling and intelligence rather than the impact of higher education?
 - How can non-cognitive outcomes be measured more objectively?
 
 ## Tags
+
 `learning-outcomes` `assessment` `higher-education` `accountability` `comparative-education`

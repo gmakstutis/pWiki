@@ -5,6 +5,7 @@ All notable changes to Zissa Wiki are recorded here.
 ## v1.0.0 — 2026-07-18
 
 ### Renamed
+
 - The project was renamed from **`llm-research-wiki`** to **`zissa-wiki`** — now
   part of the Zissa family, alongside
   [Zissa Agent Orchestra](https://github.com/MetamusicX/zissa-agent-orchestra).
@@ -12,6 +13,7 @@ All notable changes to Zissa Wiki are recorded here.
   clones keep working.
 
 ### Added
+
 - **`scripts/wiki.py` — a deterministic `wiki lint` tool.** The mechanical
   health checks the schema always described (broken links, orphan pages, index
   drift, missing frontmatter, and optional epistemic markers) now run as a
@@ -22,6 +24,7 @@ All notable changes to Zissa Wiki are recorded here.
 - **`scripts/README.md`** — usage, the full check list, and roadmap.
 
 ### Changed
+
 - `README.md` and `CLAUDE.md` now document the `wiki lint` tooling in the LINT
   workflow.
 

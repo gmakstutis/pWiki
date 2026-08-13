@@ -1,13 +1,13 @@
 ---
+publish: true
 title: "Mark My Words: The Role of Assessment Criteria in UK Higher Education Grading Practices"
-type: source-note
-author: "Sue Bloxham, Peter Boyd & Susan Orr"
-date: 2011
-source-type: article
-tags: [assessment-criteria, grading, marking, criterion-referenced-assessment, higher-education]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+modified: 2026-08-08
+tags:
+  - assessment-criteria
+  - grading
+  - marking
+  - criterion-referenced-assessment
+  - higher-education
 ---
 
 # Mark My Words: The Role of Assessment Criteria in UK Higher Education Grading Practices
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Bloxham et al 2011.pdf](../../raw/articles/Bloxham%20et%20al%202011.pdf)
 
 ## Summary
+
 This article seeks to illuminate the gap between UK policy and practice in relation to the use of criteria for allocating grades. It critiques criterion-referenced grading from three perspectives (socio-cultural, cognitive, and empirical). Twelve lecturers from two universities were asked to 'think aloud' as they graded two written assignments. The study found that assessors made holistic rather than analytical judgements, that a high proportion of tutors did not make use of written criteria in their marking, and that norm referencing was an important part of the grading process despite published criteria.
 
 ## Key Claims
+
 - Assessment in higher education involves decentralised, subject-specific decision-making processes, given credence in the UK by processes of quality assurance involving national agencies, external examining, and local moderation (p. 1).
 - The 'production, publication and discussion of clear assessment criteria' is now regarded as 'a sine qua non of an effective assessment strategy' (Woolf 2004) (p. 2).
 - The drive for the setting and use of assessment criteria does not have the theoretical or research support that one might have assumed (Sadler 2008) (p. 2).
@@ -51,15 +53,18 @@ This article seeks to illuminate the gap between UK policy and practice in relat
 **Related source notes:** [Bloxham 2009](../source-notes/bloxham-2009-marking-moderation.md)
 
 ## Direct Quotes
+
 > "Assessment consists in the exercise of an applied skill, and there are core aspects of this knowledge practice that cannot be captured by a mere propositional description of them, thus making them unavailable for publication." (Gonzalez Arnal and Burwood, quoted p. 3)
 
-> "Higher education assessment [is] a 'socially situated interpretive act'." (Shay 2004, quoted p. 3)
+> "Higher education assessment \[is] a 'socially situated interpretive act'." (Shay 2004, quoted p. 3)
 
 > "Marking standards are social constructions and not some fixed entity which they are more or less able to perceive." (p. 14)
 
 ## Open Questions
+
 - How can quality assurance of assessment better reflect the reality of marking practices?
 - How can students be helped to understand that application of assessment criteria is a complex task involving professional judgement rather than measurement?
 
 ## Tags
+
 `assessment-criteria` `grading` `marking` `criterion-referenced-assessment` `higher-education`

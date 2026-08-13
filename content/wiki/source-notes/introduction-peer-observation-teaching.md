@@ -1,13 +1,13 @@
 ---
-title: "An Introduction to Peer Observation of Teaching"
-type: source-note
-author: "UCD Teaching and Learning"
-date: 2008
-source-type: article
-tags: [peer-observation, reflective-practice, teaching-development, feedback, higher-education]
-created: 2026-08-08
-updated: 2026-08-13
-dg-publish: true
+publish: true
+title: An Introduction to Peer Observation of Teaching
+modified: 2026-08-13
+tags:
+  - peer-observation
+  - reflective-practice
+  - teaching-development
+  - feedback
+  - higher-education
 ---
 
 # An Introduction to Peer Observation of Teaching
@@ -15,12 +15,14 @@ dg-publish: true
 **Author:** UCD Teaching and Learning
 **Year:** 2008
 **Source type:** article
-**Raw file:** [an_introduction_to_peer_observation_of_teaching.pdf](../../raw/articles/an_introduction_to_peer_observation_of_teaching.pdf)
+**Raw file:** [an\_introduction\_to\_peer\_observation\_of\_teaching.pdf](../../raw/articles/an_introduction_to_peer_observation_of_teaching.pdf)
 
 ## Summary
+
 A practical guide from UCD Teaching and Learning introducing peer observation of teaching as a tool for personal and professional development. It deconstructs the terms "peer," "observation," and "teaching," presents the five-stage UCD model of peer observation (pre-observation meeting, observation, post-observation meeting, action plan, reporting achievements), and offers detailed guidance on conducting observations, giving and receiving feedback, and producing action plans.
 
 ## Key Claims
+
 - Peer observation is regarded by academics and educational developers as a tool for personal and professional development, not summative assessment (p. 1).
 - Observation is not a neutral, objective process: the observer, method, and instruments all impact the information obtained from the session (p. 2).
 - Observers don't just "see" teaching behaviours — they interpret them, shaped by their own idea of what teaching involves; the observer's experience and expertise influences what is seen and missed (p. 2).
@@ -40,12 +42,15 @@ A practical guide from UCD Teaching and Learning introducing peer observation of
 **Related source notes:** [Aktar & Oxley 2019](../source-notes/aktar-oxley-2019-research-teaching-nexus.md)
 
 ## Direct Quotes
+
 > "The process of observation then is not simply a neutral, objective process. Rather, the observer, method of observation, and instruments used will all impact on the information obtained from the session." (p. 2)
 
 > "Without benefiting from the observations made, or implementing some aspect, the process becomes a pointless paper exercise." (p. 10)
 
 ## Open Questions
+
 - How can peer observation be kept genuinely developmental rather than drifting into summative evaluation, given the pressure for accountability in higher education?
 
 ## Tags
+
 `peer-observation` `reflective-practice` `teaching-development` `feedback` `higher-education`

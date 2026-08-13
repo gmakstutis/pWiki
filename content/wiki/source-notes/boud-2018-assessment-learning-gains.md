@@ -1,13 +1,13 @@
 ---
-title: "Assessment Could Demonstrate Learning Gains, but What is Required for It to Do So?"
-type: source-note
-author: "David Boud"
-date: 2018
-source-type: article
-tags: [learning-gain, assessment, standards, learning-outcomes, higher-education]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+publish: true
+title: Assessment Could Demonstrate Learning Gains, but What is Required for It to Do So?
+modified: 2026-08-08
+tags:
+  - learning-gain
+  - assessment
+  - standards
+  - learning-outcomes
+  - higher-education
 ---
 
 # Assessment Could Demonstrate Learning Gains, but What is Required for It to Do So?
@@ -18,9 +18,11 @@ dg-publish: true
 **Raw file:** [Boud 2018.pdf](../../raw/articles/Boud%202018.pdf)
 
 ## Summary
+
 An opinion piece arguing that a ready source of data to investigate learning gain is that generated normally through student assessment. Boud argues that such data cannot currently be used for this purpose because assessment is not set up to inform us about student learning, and calls for the refreshment of assessment thinking to bring it in line with thinking about standards.
 
 ## Key Claims
+
 - The most readily available measure of learning gain is existing data from student assessments, but we can't use assessment as it is practiced currently because ironically it is not set up to inform us about student learning (p. 54).
 - If assessment was really a process of judging performance against learning outcomes within a framework of declared standards, then there would not be a problem (p. 54).
 - The difficulty is not that higher education assessment is technically inadequate, though that might also be true, but that it is rooted in an unclear notion of what assessment should seek to do and how it should seek to do it (p. 54).
@@ -43,6 +45,7 @@ An opinion piece arguing that a ready source of data to investigate learning gai
 **Related source notes:** [Baume 2018](../source-notes/baume-2018-learning-gain.md) · [Nusche 2008](../source-notes/nusche-2008-assessment-learning-outcomes.md)
 
 ## Direct Quotes
+
 > "The most readily available measure of learning gain is existing data from student assessments. But, we can't use assessment as it is practiced currently because ironically it is not set up to inform us about student learning." (p. 54)
 
 > "The most problematic feature of current marking practices is that it is not possible to associate any reported mark with what a student can or cannot do. ... Marks act as obscuring devices." (p. 55)
@@ -50,8 +53,10 @@ An opinion piece arguing that a ready source of data to investigate learning gai
 > "There is a much more urgent task for assessment reform: to make marking and grading fit for the key purpose of indicating what a student has achieved." (p. 55)
 
 ## Open Questions
+
 - How can assessment be reformed so that marks indicate what a student has achieved in relation to program learning outcomes?
 - How can standards and criteria be calibrated across all units for each outcome?
 
 ## Tags
+
 `learning-gain` `assessment` `standards` `learning-outcomes` `higher-education`

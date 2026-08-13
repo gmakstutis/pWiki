@@ -1,13 +1,13 @@
 ---
-title: "Toward a Critical Race Theory of Education"
-type: source-note
-author: "Gloria Ladson-Billings & William F. Tate IV"
-date: 1995
-source-type: article
-tags: [critical-race-theory, race, education, inequity, property]
-created: 2026-08-08
-updated: 2026-08-08
-dg-publish: true
+publish: true
+title: Toward a Critical Race Theory of Education
+modified: 2026-08-08
+tags:
+  - critical-race-theory
+  - race
+  - education
+  - inequity
+  - property
 ---
 
 # Toward a Critical Race Theory of Education
@@ -15,12 +15,14 @@ dg-publish: true
 **Author:** Gloria Ladson-Billings & William F. Tate IV
 **Year:** 1995
 **Source type:** article
-**Raw file:** [Ladson_Billings_1995.pdf](../../raw/articles/Ladson_Billings_1995.pdf)
+**Raw file:** [Ladson\_Billings\_1995.pdf](../../raw/articles/Ladson_Billings_1995.pdf)
 
 ## Summary
+
 This article asserts that despite the salience of race in U.S. society, as a topic of scholarly inquiry it remains untheorized. It argues for a critical race theoretical perspective in education analogous to that of critical race theory in legal scholarship by developing three propositions: (1) race continues to be significant in the United States; (2) U.S. society is based on property rights rather than human rights; and (3) the intersection of race and property creates an analytical tool for understanding inequity. The article concludes with a look at the limitations of the current multicultural paradigm.
 
 ## Key Claims
+
 - Despite the salience of race in U.S. society, as a topic of scholarly inquiry, it remains untheorized (p. 47).
 - The discussion of social inequity in general, and school inequity in particular, is based on three central propositions: race continues to be a significant factor in determining inequity; U.S. society is based on property rights; and the intersection of race and property creates an analytic tool through which we can understand social and school inequity (p. 48).
 - Race, unlike gender and class, remains untheorized (p. 49).
@@ -42,6 +44,7 @@ This article asserts that despite the salience of race in U.S. society, as a top
 **Related source notes:** [Freire 1970](../source-notes/freire-1970-pedagogy-of-the-oppressed.md) · [Avis & Orr 2016](../source-notes/avis-orr-2016-he-in-fe.md)
 
 ## Direct Quotes
+
 > "Race continues to be a significant factor in determining inequity in the United States." (p. 48)
 
 > "U.S. society is based on property rights." (p. 48)
@@ -49,8 +52,10 @@ This article asserts that despite the salience of race in U.S. society, as a top
 > "The intersection of race and property creates an analytic tool through which we can understand social (and, consequently, school) inequity." (p. 48)
 
 ## Open Questions
+
 - How can critical race theory be applied to understand and address educational inequity?
 - How can the voice of people of color be centred in educational analysis?
 
 ## Tags
+
 `critical-race-theory` `race` `education` `inequity` `property`
