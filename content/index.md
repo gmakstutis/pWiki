@@ -1,12 +1,6 @@
 ---
 publish: true
-modified: 2026-08-13T10:17:00.332Z
----
-
-# Pedagogy Research Wiki
-
-> Last updated: 2026-08-13
-
+modified: 2026-08-13T10:36:21.520Z
 ---
 
 ## How to Navigate
