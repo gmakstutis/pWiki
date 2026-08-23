@@ -17,7 +17,6 @@ The extent to which students meaningfully participate in learning experiences wi
 ## Key Thinkers
 
 - [David Kolb](../authors/kolb.md) — experiential learning as a route to engagement
-- [Lev Vygotsky](../authors/vygotsky.md) — collaborative learning and the Zone of Proximal Development
 
 ## Related Concepts
 

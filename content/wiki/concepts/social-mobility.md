@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Social Mobility
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - mobility
   - class
@@ -31,6 +31,7 @@ The movement of individuals or groups within the social hierarchy, often measure
 Sources in the wiki that discuss this concept:
 
 - [Avis & Orr 2016](../source-notes/avis-orr-2016-he-in-fe.md)
+- [Cameron et al 2018](../source-notes/cameron-2018-learning-gain-widening-participation.md) — graduate outcomes and value-added for widening-participation students
 
 ## Open Questions
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Student Retention
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - retention
   - transition
@@ -31,6 +31,7 @@ The extent to which students continue their studies and complete their programme
 Sources in the wiki that discuss this concept:
 
 - [Chrysikos & Catterall 2020](../source-notes/chrysikos-catterall-2020-learning-communities-retention.md)
+- [Avis & Orr 2016](../source-notes/avis-orr-2016-he-in-fe.md) — participation and progression of non-traditional students
 
 ## Open Questions
 

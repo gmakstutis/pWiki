@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Human Capital
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - economics
   - skills
@@ -29,6 +29,7 @@ The stock of skills, knowledge, and abilities that workers possess, which can be
 Sources in the wiki that discuss this concept:
 
 - [Lerman 2019](../source-notes/lerman-2019-apprenticeship-investments.md)
+- [Avis & Orr 2016](../source-notes/avis-orr-2016-he-in-fe.md) — human-capital rhetoric in widening participation and social mobility policy
 
 ## Open Questions
 

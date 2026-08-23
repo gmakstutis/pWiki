@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-08-13T10:36:21.520Z
+modified: 2026-08-20T07:57:28.928Z
 ---
 
 ## How to Navigate
@@ -135,12 +135,6 @@ _Flexible, online, and open approaches to education._
 - [Flexible Learning](wiki/concepts/flexible-learning.md) — Self-paced and flexible approaches. Key thinker: Maureen Snow Andrade.
 - [Online Learning](wiki/concepts/online-learning.md) — Learning delivered online.
 - [Open Educational Resources](wiki/concepts/open-educational-resources.md) — Freely available educational materials.
-
----
-
-## Syntheses
-
-_No pages yet. Syntheses are added when a cluster of related pages has enough source support to warrant a pre-digested argumentative overview._
 
 ---
 

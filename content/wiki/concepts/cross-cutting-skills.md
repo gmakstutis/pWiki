@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Cross-Cutting Skills
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - skills
   - employability
@@ -29,6 +29,7 @@ Skills that cut across fields of study, including written and oral communication
 Sources in the wiki that discuss this concept:
 
 - [Andrade 2020](../source-notes/andrade-2020-cross-cutting-skills.md)
+- [Bree et al 2019](../source-notes/bree-2019-assessed-group-work-framework.md) — teamwork and collaboration as cross-cutting skills developed through group work
 
 ## Open Questions
 

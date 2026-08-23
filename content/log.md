@@ -359,3 +359,26 @@ _Actions: setup, ingest, query, lint, maintenance_
 - Updated: concepts/constructive-alignment.md (linked synthesis)
 - Updated: index.md (added Syntheses section)
 - Updated `updated:` dates on all touched pages
+
+## \[2026-08-17] lint | Fixed unsupported claims, enriched thin concepts, and cross-links
+
+- Removed unsupported Buber/Noddings claims from relational pedagogy:
+  - Deleted: wiki/authors/buber.md, wiki/authors/noddings.md (no source notes in wiki drew on their work)
+  - Updated: wiki/concepts/relational-pedagogy.md (removed Buber/Noddings, added Chika-James as key thinker)
+  - Updated: index.md (removed Buber and Noddings entries; index date bumped)
+- Enriched single-source concept pages with additional source-note links from the existing corpus:
+  - banking-concept-of-education.md, dialogue.md, problem-posing-education.md (+ Braa \u0026 Callero 2006)
+  - critical-reflection.md, higher-level-learning.md (+ Biggs 2014)
+  - surface-learning.md, learning-approaches.md (+ Biggs 2014, Cope 2003)
+  - human-capital.md (+ Avis \u0026 Orr 2016); social-mobility.md (+ Cameron et al 2018)
+  - collaborative-learning.md (+ Aktar \u0026 Oxley 2019, Chrysikos \u0026 Catterall 2020)
+  - student-retention.md (+ Avis \u0026 Orr 2016); group-work.md (+ Andrade 2020)
+  - metaphorical-reasoning.md (+ Bhat 2014); peer-development.md (+ Au 2009)
+  - service-learning.md (+ Braa \u0026 Callero 2006); learning-communities.md (+ Byrne et al 2010)
+  - vocationalism.md (+ Avis et al 2018); cross-cutting-skills.md (+ Bree et al 2019)
+  - inclusive-assessment.md (+ Deeley et al 2019); wicked-problem.md (+ Bell et al 2024)
+  - work-based-learning.md (+ Blackwell et al 2001)
+  - critical-race-theory-in-education.md (+ Steele \u0026 Aronson 1995); stereotype-threat.md (+ Ladson-Billings \u0026 Tate 1995)
+- Added missing reciprocal link: source-notes/biggs-constructive-alignment.md -> biggs-2014-constructive-alignment-university-teaching.md
+- Updated updated: dates on all touched pages
+- Ran python3 scripts/wiki.py lint — passes error-free; 4 remaining info-level thin-support pages require new sources: peer-assessment, programme-assessment, relational-pedagogy, research-teaching-nexus

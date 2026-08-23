@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Peer Development
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - peer-development
   - professional-development
@@ -30,6 +30,7 @@ A collaborative process of professional development in which colleagues identify
 Sources in the wiki that discuss this concept:
 
 - [Byrne et al 2010](../source-notes/byrne-2010-peer-development.md)
+- [Au 2009](../source-notes/au-2009-communities-of-practice.md) — collaborative learning communities as a model for professional development
 
 ## Open Questions
 

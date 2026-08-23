@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Critical Reflection
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - critical-reflection
   - reflection
@@ -32,6 +32,7 @@ Reflection that challenges personal norms, assumptions and 'taken-for-granteds'.
 Sources in the wiki that discuss this concept:
 
 - [Cope 2003](../source-notes/cope-2003-entrepreneurial-learning-critical-reflection.md)
+- [Biggs 2014](../source-notes/biggs-2014-constructive-alignment-university-teaching.md) — reflective practice and alignment
 
 ## Open Questions
 

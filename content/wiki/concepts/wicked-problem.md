@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Wicked Problem
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - wicked-problem
   - complexity
@@ -31,6 +31,7 @@ A complex, multi-faceted problem for which no single elegant solution exists, an
 Sources in the wiki that discuss this concept:
 
 - [Deeley et al 2019](../source-notes/deeley-2019-wicked-problem-assessment-feedback.md)
+- [Bell et al 2024](../source-notes/bell-2024-inclusive-grading-creative-arts.md) — inclusive grading as a partial response to complex assessment problems
 
 ## Open Questions
 

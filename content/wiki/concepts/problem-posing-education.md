@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Problem-Posing Education
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - problem-posing
   - dialogue
@@ -31,6 +31,7 @@ Freire's alternative to the banking concept of education, in which education is 
 Sources in the wiki that discuss this concept:
 
 - [Freire 1970](../source-notes/freire-1970-pedagogy-of-the-oppressed.md)
+- [Braa & Callero 2006](../source-notes/braa-callero-2006-critical-pedagogy.md) — problem-posing as emancipatory practice
 
 ## Open Questions
 

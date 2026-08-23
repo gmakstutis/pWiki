@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Service-Learning
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - service-learning
   - experiential-learning
@@ -31,6 +31,7 @@ A form of experiential learning that enables students to gain practical experien
 Sources in the wiki that discuss this concept:
 
 - [Chika-James 2020](../source-notes/chika-james-2020-relational-pedagogy-service-learning.md)
+- [Braa & Callero 2006](../source-notes/braa-callero-2006-critical-pedagogy.md) — praxis distinguished from service-learning and volunteerism
 
 ## Open Questions
 

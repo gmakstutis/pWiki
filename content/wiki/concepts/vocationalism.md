@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Vocationalism
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - vocational-education
   - skills
@@ -31,6 +31,7 @@ The orientation of education toward the development of workplace skills, knowled
 Sources in the wiki that discuss this concept:
 
 - [Avis & Orr 2016](../source-notes/avis-orr-2016-he-in-fe.md)
+- [Lerman 2019](../source-notes/lerman-2019-apprenticeship-investments.md) — apprenticeship as a vocational, work-based pathway
 
 ## Open Questions
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Aligning Teaching for Constructing Learning
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - constructive-alignment
   - intended-learning-outcomes
@@ -41,7 +41,7 @@ This article introduces 'constructive alignment' (CA), an approach to curriculum
 **Concepts:** [Constructive Alignment](../concepts/constructive-alignment.md) · [Intended Learning Outcomes](../concepts/intended-learning-outcomes.md) · [Assessment](../concepts/assessment.md) · [Deep Learning](../concepts/deep-learning.md)
 **Authors:** [John Biggs](../authors/biggs.md)
 **Debates:** [Deep vs Surface Learning](../debates/deep-vs-surface-learning.md)
-**Related source notes:** [Beattie et al 1997](../source-notes/beattie-1997-deep-surface-learning.md)
+**Related source notes:** [Beattie et al 1997](../source-notes/beattie-1997-deep-surface-learning.md) · [Biggs 2014 Constructive Alignment in University Teaching](../source-notes/biggs-2014-constructive-alignment-university-teaching.md)
 
 ## Direct Quotes
 

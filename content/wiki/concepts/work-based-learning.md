@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Work-Based Learning
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - learning
   - vocational-education
@@ -29,6 +29,7 @@ Learning that occurs through engagement in real work, involving production, pay,
 Sources in the wiki that discuss this concept:
 
 - [Lerman 2019](../source-notes/lerman-2019-apprenticeship-investments.md)
+- [Blackwell et al 2001](../source-notes/blackwell-2001-transforming-work-experience.md) — work experience and work-based learning as routes to employability
 
 ## Open Questions
 

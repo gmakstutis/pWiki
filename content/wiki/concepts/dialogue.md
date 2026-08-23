@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Dialogue
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - dialogue
   - communication
@@ -31,6 +31,7 @@ A way of knowing and a process of learning, rather than a mere technique or tact
 Sources in the wiki that discuss this concept:
 
 - [Freire 1970](../source-notes/freire-1970-pedagogy-of-the-oppressed.md)
+- [Braa & Callero 2006](../source-notes/braa-callero-2006-critical-pedagogy.md) — dialogue as a component of critical pedagogy
 
 ## Open Questions
 

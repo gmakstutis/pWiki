@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Inclusive Assessment
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - inclusive-assessment
   - assessment
@@ -32,6 +32,7 @@ The design and use of fair and effective assessment methods and practices that e
 Sources in the wiki that discuss this concept:
 
 - [Bell et al 2024](../source-notes/bell-2024-inclusive-grading-creative-arts.md)
+- [Deeley et al 2019](../source-notes/deeley-2019-wicked-problem-assessment-feedback.md) — student dissatisfaction and the need for inclusive, timely feedback
 
 ## Open Questions
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Stereotype Threat
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - stereotype-threat
   - race
@@ -32,6 +32,7 @@ Being at risk of confirming, as self-characteristic, a negative stereotype about
 Sources in the wiki that discuss this concept:
 
 - [Steele & Aronson 1995](../source-notes/steele-aronson-1995-stereotype-threat.md)
+- [Ladson-Billings & Tate 1995](../source-notes/ladson-billings-tate-1995-critical-race-theory-education.md) — race and inequity as the broader context for stereotype threat
 
 ## Open Questions
 

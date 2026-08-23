@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Critical Race Theory in Education
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - critical-race-theory
   - race
@@ -31,6 +31,7 @@ A theoretical perspective in education, analogous to critical race theory in leg
 Sources in the wiki that discuss this concept:
 
 - [Ladson-Billings & Tate 1995](../source-notes/ladson-billings-tate-1995-critical-race-theory-education.md)
+- [Steele & Aronson 1995](../source-notes/steele-aronson-1995-stereotype-threat.md) — race, stereotype threat, and educational performance
 
 ## Open Questions
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Learning Communities
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - learning-communities
   - retention
@@ -31,6 +31,7 @@ Groups of students who participate together in a shared academic experience, oft
 Sources in the wiki that discuss this concept:
 
 - [Chrysikos & Catterall 2020](../source-notes/chrysikos-catterall-2020-learning-communities-retention.md)
+- [Byrne et al 2010](../source-notes/byrne-2010-peer-development.md) — learning communities and non-judgemental professional dialogue
 
 ## Open Questions
 

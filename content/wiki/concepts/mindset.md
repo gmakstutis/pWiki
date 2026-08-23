@@ -18,7 +18,7 @@ A belief about whether human qualities, such as intelligence and personality, ar
 
 ## Key Thinkers
 
-- [David Kolb](../authors/kolb.md) — experiential learning and the development of abilities
+- [Carol Dweck](../authors/dweck.md) — experiential learning and the development of abilities
 
 ## Related Concepts
 

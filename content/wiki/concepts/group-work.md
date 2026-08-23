@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Group Work
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - group-work
   - collaboration
@@ -30,6 +30,7 @@ Group projects and other forms of group work used as part of the assessment proc
 Sources in the wiki that discuss this concept:
 
 - [Bree et al 2019](../source-notes/bree-2019-assessed-group-work-framework.md)
+- [Andrade 2020](../source-notes/andrade-2020-cross-cutting-skills.md) — teamwork as a cross-cutting skill
 
 ## Open Questions
 

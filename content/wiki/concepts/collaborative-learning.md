@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Collaborative Learning
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - learning
   - collaboration
@@ -17,6 +17,7 @@ Learning that engages small groups of people who encourage each other to maximiz
 ## Key Thinkers
 
 - [Etienne Wenger](../authors/wenger.md) — communities of practice as collaborative learning
+- [Lev Vygotsky](../authors/vygotsky.md) — Zone of Proximal Development and social construction of knowledge
 
 ## Related Concepts
 
@@ -29,6 +30,8 @@ Learning that engages small groups of people who encourage each other to maximiz
 Sources in the wiki that discuss this concept:
 
 - [Au 2009](../source-notes/au-2009-communities-of-practice.md)
+- [Aktar & Oxley 2019](../source-notes/aktar-oxley-2019-research-teaching-nexus.md) — collaborative strategies for student engagement
+- [Chrysikos & Catterall 2020](../source-notes/chrysikos-catterall-2020-learning-communities-retention.md) — peer interaction in learning communities
 
 ## Open Questions
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Relational Pedagogy
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - relational-pedagogy
   - teacher-student-relationship
@@ -13,12 +13,11 @@ tags:
 
 ## Definition
 
-A philosophy of teaching based on the claim that teaching, learning and education is a relational process. It shifts the focus of teaching from student-centred and teacher-centred to a focus on the teacher-student relationship, such that the relationship between both entities is ontologically more important than the single entities in the learning process. Building on Buber's I and Thou relations and Noddings's caring teacher-student relationship, relational pedagogy acknowledges the individuality and differences of learners, positing students as human beings rather than academic clients. Key relational competencies include care, interpersonal communication, an attentive presence, and trust.
+A philosophy of teaching based on the claim that teaching, learning and education is a relational process. It shifts the focus of teaching from student-centred and teacher-centred to a focus on the teacher-student relationship, such that the relationship between both entities is ontologically more important than the single entities in the learning process. Key relational competencies include care, interpersonal communication, an attentive presence, and trust.
 
 ## Key Thinkers
 
-- [John Dewey](../authors/dewey.md) — experience and reflection as the basis of learning
-- [David Kolb](../authors/kolb.md) — experiential learning as a relational process
+- [Theresa Chika-James](../authors/chika-james.md) — relational competencies in service-learning
 
 ## Related Concepts
 

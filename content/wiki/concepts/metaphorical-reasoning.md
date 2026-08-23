@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Metaphorical Reasoning
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - metaphor
   - design
@@ -32,6 +32,7 @@ The use of metaphor to structure and reframe a problem, allowing the transfer of
 Sources in the wiki that discuss this concept:
 
 - [Casakin & Miller 2008](../source-notes/casakin-miller-2008-learning-styles-metaphor.md)
+- [Bhat 2014](../source-notes/bhat-2014-learning-styles-problem-solving.md) — problem solving and learning-style differences
 
 ## Open Questions
 

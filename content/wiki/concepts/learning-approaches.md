@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Learning Approaches
-modified: 2026-08-08
+modified: 2026-08-17
 tags:
   - learning
   - approaches
@@ -32,6 +32,8 @@ The ways in which students engage with learning tasks, distinguished from learni
 Sources in the wiki that discuss this concept:
 
 - [Beattie et al 1997](../source-notes/beattie-1997-deep-surface-learning.md)
+- [Biggs 2014](../source-notes/biggs-2014-constructive-alignment-university-teaching.md) — how alignment shapes deep and surface approaches
+- [Cope 2003](../source-notes/cope-2003-entrepreneurial-learning-critical-reflection.md) — learning levels and transformative approaches
 
 ## Open Questions
 
